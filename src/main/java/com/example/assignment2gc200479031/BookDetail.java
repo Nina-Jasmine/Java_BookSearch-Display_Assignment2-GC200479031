@@ -1,5 +1,7 @@
 package com.example.assignment2gc200479031;
 
+import java.util.Arrays;
+
 public class BookDetail {
 
     private String title;
@@ -19,8 +21,8 @@ public class BookDetail {
         return subtitle;
     }
 
-    public String[] getAuthors() {
-        return authors;
+    public String getAuthors() {
+        return Arrays.toString(authors);
     }
 
     public String getPublisher() {
@@ -41,6 +43,6 @@ public class BookDetail {
 
     public String toString()
     {
-        return String.format("%s (%s, %s)",title, authors, publishedDate);
+        return String.format("%s (%s, %s)",title, getAuthors(), publishedDate);
     }
 }
