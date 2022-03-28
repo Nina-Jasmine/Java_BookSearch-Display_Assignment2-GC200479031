@@ -20,11 +20,13 @@ public class Main  {
 
     public static void main(String[] args) {
        // launch();
-        ApiResponse apiResponse = APIUtility.getBooksFromJSONFile("apiResponse.json");
-        Book[] books = apiResponse.getItems();
-        for(Book book : books) {
+        //ApiResponse apiResponse = APIUtility.getBooksFromJSONFile("apiResponse.json");
 
-        System.out.println(book.getVolumeInfo());
+        ApiResponse apiResponse = APIUtility.getBooksFromOMDB("The great Gatsby");
+
+        for(Book book : apiResponse.getItems()) {
+
+        System.out.println(book.getVolumeInfo().getTitle());
         }
     }
 }

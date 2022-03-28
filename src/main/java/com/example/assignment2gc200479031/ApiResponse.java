@@ -1,9 +1,11 @@
 package com.example.assignment2gc200479031;
 
+import java.util.ArrayList;
+
 public class ApiResponse {
     private String kind;
     private int totalItems;
-    private Book[] items;
+    private ArrayList<Book> items;
 
     public String getKind() {
         return kind;
@@ -13,7 +15,7 @@ public class ApiResponse {
         return totalItems;
     }
 
-    public Book[] getItems() {
+    public ArrayList<Book> getItems() {
         return items;
     }
 }

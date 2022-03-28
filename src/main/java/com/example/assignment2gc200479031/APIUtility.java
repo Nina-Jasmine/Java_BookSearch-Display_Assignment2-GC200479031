@@ -40,7 +40,7 @@ import java.nio.file.Paths;
         public static ApiResponse getBooksFromOMDB(String searchTerm) {
             searchTerm = searchTerm.replace(" ", "%20");
 
-            String uri = "https://www.googleapis.com/books/v1/volumes?q=" + searchTerm + "+inauthor:keyes&key=AIzaSyDp_DizcmNRarGlfaAs-0KDe2qDSiGC-s0";
+            String uri = "https://www.googleapis.com/books/v1/volumes?q=search+intitle:" + searchTerm + "&key=AIzaSyDp_DizcmNRarGlfaAs-0KDe2qDSiGC-s0";
 
             HttpClient client = HttpClient.newHttpClient();
             HttpRequest httpRequest = HttpRequest.newBuilder().uri(URI.create(uri)).build();

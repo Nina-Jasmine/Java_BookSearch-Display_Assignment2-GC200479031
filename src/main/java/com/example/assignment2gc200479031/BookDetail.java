@@ -11,7 +11,7 @@ public class BookDetail {
     private String publisher;
     private String publishedDate;
     private String description;
-    private ImageLink imageLink;
+    private ImageLink imageLinks;
 
     public String getTitle() {
         return title;
@@ -38,7 +38,7 @@ public class BookDetail {
     }
 
     public ImageLink getImageLink() {
-        return imageLink;
+        return imageLinks;
     }
 
     public String toString()
