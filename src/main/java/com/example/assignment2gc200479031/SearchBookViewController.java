@@ -38,7 +38,7 @@ public class SearchBookViewController implements Initializable {
         resultListView.getItems().clear();
         if (apiResponse.getItems() != null)
         {
-            //BookDetail is about book information, which is nested in ApiResponse->Book->BookDetail
+            //BookDetail is about book information, ApiResponse->Book->BookDetail
             ArrayList<BookDetail> bookDetails = new ArrayList<>();
             for(Book book : apiResponse.getItems()) {
 
@@ -68,9 +68,12 @@ public class SearchBookViewController implements Initializable {
      */
     @FXML
     private void getDetails(ActionEvent event) throws IOException {
-        String id = resultListView.getSelectionModel().getSelectedItem().getBook().getId();
-        System.out.println("Book ID: "+ id);
-        SceneChanger.changeScenes(event, "book-details.fxml",id);
+        System.out.println(resultListView.getSelectionModel().getSelectedItem());
+
+        //String bookId = resultListView.getSelectionModel().getSelectedItem().getIdFromBookDetail();
+        //System.out.println("Book ID: "+ bookId);
+        BookDetail bookDetail = resultListView.getSelectionModel().getSelectedItem();
+        SceneChanger.changeScenes(event, "book-details-view.fxml",bookDetail);
     }
 }
 

@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 public class Book {
 
-    private String id;
+    protected String id;
 
     @SerializedName("volumeInfo")
     private BookDetail bookDetail;
@@ -15,6 +15,10 @@ public class Book {
 
     public BookDetail getBookDetail() {
         return bookDetail;
+    }
+
+    public String toString(){
+        return this.getId();
     }
 
 

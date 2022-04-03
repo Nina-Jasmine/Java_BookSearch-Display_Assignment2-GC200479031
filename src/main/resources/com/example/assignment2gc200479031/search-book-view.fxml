@@ -13,14 +13,15 @@
    <children>
       <VBox alignment="CENTER" layoutX="24.0" layoutY="60.0" prefHeight="547.0" prefWidth="614.0" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
-            <HBox alignment="CENTER_LEFT" spacing="20.0">
+            <HBox alignment="CENTER_LEFT" spacing="10.0">
                <children>
-                  <TextField fx:id="searchTextField" alignment="TOP_LEFT" prefHeight="39.0" prefWidth="477.0" promptText="Input Book Title" />
+                  <Label id="searchLabel" prefHeight="47.0" prefWidth="172.0" text="Book Title" />
+                  <TextField fx:id="searchTextField" alignment="TOP_LEFT" prefHeight="39.0" prefWidth="306.0" promptText="Input Book Title" />
                   <Button mnemonicParsing="false" onAction="#searchBooks" prefHeight="47.0" prefWidth="128.0" text="Search" />
                </children>
             </HBox>
             <ListView fx:id="resultListView" prefHeight="350.0" prefWidth="600.0" />
-            <Button fx:id="getDetailButton" mnemonicParsing="false" text="Get Book Details" />
+            <Button fx:id="getDetailButton" alignment="CENTER_RIGHT" mnemonicParsing="false" onAction="#getDetails" text="Get Book Details" />
             <Label fx:id="msgLabel" prefHeight="17.0" prefWidth="95.0" />
          </children>
          <padding>

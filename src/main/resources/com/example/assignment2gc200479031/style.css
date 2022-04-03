@@ -6,17 +6,18 @@
     -fx-background-radius: 10px;
 }
 
-.label
+#searchLabel
 {
     -fx-background-color:
             #000000,
             linear-gradient(#72b804, #c5e88e);
     -fx-background-insets: 2;
     -fx-background-radius: 6px;
-    -fx-padding: 10 30;
+    -fx-padding: 5 20;
     -fx-text-fill: #FFFFFF;
     -fx-font-size: 18px bold;
-    -fx-spacing:30;
+    -fx-spacing:20;
+    -fx-spacing:20;
 }
 
 #header

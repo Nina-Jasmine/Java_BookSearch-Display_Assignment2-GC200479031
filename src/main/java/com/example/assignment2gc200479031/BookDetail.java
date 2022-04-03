@@ -10,7 +10,8 @@ public class BookDetail extends Book{
 
     private String title, subtitle, publisher, publishedDate, description, language, infoLink;
     private String[] authors, categories;
-    private int pageCount;
+    private int pageCount, ratingsCount;
+    private Double averageRating;
     private ImageLink imageLinks;
 
     public String getTitle() {
@@ -21,8 +22,8 @@ public class BookDetail extends Book{
         return subtitle;
     }
 
-    public String[] getAuthors() {
-        return authors;
+    public String getAuthors() {
+        return Arrays.toString(authors).replace("[","").replace("]","");
     }
 
     public String getPublisher() {
@@ -30,7 +31,8 @@ public class BookDetail extends Book{
     }
 
     public String getPublishedDate() {
-        return publishedDate;
+
+        return (publishedDate != null) ? publishedDate : " ";
     }
 
     public String getDescription() {
@@ -57,6 +59,13 @@ public class BookDetail extends Book{
         return imageLinks;
     }
 
+    public int getRatingsCount() {
+        return ratingsCount;
+    }
+
+    public Double getAverageRating() {
+        return averageRating;
+    }
     //get the title, Year of publishedDate and Authors information to display
 
     public String toString()
@@ -64,10 +73,24 @@ public class BookDetail extends Book{
         return String.format("%s (%s, %s)",title, publishedDate.substring(0, 4), Arrays.toString(authors).replace("[","").replace("]",""));
     }
 
-    //This method to return an instance of members has this bookDetail instance
-    public Book getBook(){
+    //This method to return the id based on the parent class Book
 
-        Book book = new Book();
-        return book;
+   /* @Override
+    public String getId() {
+
+        return super.getId();
+    }*/
+
+    public String getIdFromBookDetail() {
+
+        return super.getId();
+    }
+   /*  public Book getBook(){
+
+        return this;
+    }*/
+
+    public Class<? super Book> getSuperclass(){
+        return this.getSuperclass();
     }
 }

@@ -1,226 +1,56 @@
 {
   "kind": "books#volumes",
-  "totalItems": 2361,
+  "totalItems": 180,
   "items": [
     {
       "kind": "books#volume",
-      "id": "PGR2AwAAQBAJ",
-      "etag": "wXaAVxLvdig",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/PGR2AwAAQBAJ",
+      "id": "0NEbHGREK7cC",
+      "etag": "C8e3LFUJcDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0NEbHGREK7cC",
       "volumeInfo": {
         "title": "To Kill a Mockingbird",
         "authors": [
           "Harper Lee"
         ],
-        "publisher": "Harper Collins",
-        "publishedDate": "2014-07-08",
-        "description": "Voted America's Best-Loved Novel in PBS's The Great American Read Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred One of the most cherished stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father—a crusading local lawyer—risks everything to defend a black man unjustly accused of a terrible crime.",
+        "publisher": "Dramatic Publishing",
+        "publishedDate": "1970",
+        "description": "Harper Lee's classic novel of a lawyer in the Deep South defending a black man charged with the rape of a white girl. One of the best-loved stories of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960. It won the Pulitzer Prize, has been translated into more than forty languages, sold more than thirty million copies worldwide, and been made into an enormously popular movie. Most recently, librarians across the country gave the book the highest of honors by voting it the best novel of the twentieth century.",
         "industryIdentifiers": [
           {
-            "type": "ISBN_13",
-            "identifier": "9780062368683"
+            "type": "ISBN_10",
+            "identifier": "0871299208"
           },
           {
-            "type": "ISBN_10",
-            "identifier": "0062368680"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 336,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4.5,
-        "ratingsCount": 2167,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.26.24.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=PGR2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=PGR2AwAAQBAJ&pg=PP1&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=1&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=PGR2AwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PGR2AwAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 11.99,
-          "currencyCode": "CAD"
-        },
-        "retailPrice": {
-          "amount": 11.99,
-          "currencyCode": "CAD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=PGR2AwAAQBAJ&rdid=book-PGR2AwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 11990000,
-              "currencyCode": "CAD"
-            },
-            "retailPrice": {
-              "amountInMicros": 11990000,
-              "currencyCode": "CAD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-epub.acsm?id=PGR2AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=PGR2AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Voted America&#39;s Best-Loved Novel in PBS&#39;s The Great American Read Harper Lee&#39;s Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred One of the most ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "pK0X5FyUs28C",
-      "etag": "mC9O+iydUL0",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/pK0X5FyUs28C",
-      "volumeInfo": {
-        "title": "The Perks of Being a Wallflower",
-        "authors": [
-          "Stephen Chbosky"
-        ],
-        "publisher": "Simon and Schuster",
-        "publishedDate": "2012-08-14",
-        "description": "Charlie struggles to cope with complex world of high school as he deals with the confusions of sex and love, the temptations of drugs, and the pain of losing a close friend and a favorite aunt.",
-        "industryIdentifiers": [
-          {
             "type": "ISBN_13",
-            "identifier": "9781451696196"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1451696191"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 213,
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 2814,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.6.3.0.preview.0",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=pK0X5FyUs28C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=pK0X5FyUs28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=pK0X5FyUs28C&printsec=frontcover&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=pK0X5FyUs28C&dq=search+intitle:+To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Perks_of_Being_a_Wallflower.html?hl=&id=pK0X5FyUs28C"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=pK0X5FyUs28C&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Charlie struggles to cope with complex world of high school as he deals with the confusions of sex and love, the temptations of drugs, and the pain of losing a close friend and a favorite aunt."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "MLacAgAAQBAJ",
-      "etag": "IQkmNosCIpY",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/MLacAgAAQBAJ",
-      "volumeInfo": {
-        "title": "Paper Towns",
-        "authors": [
-          "John Green"
-        ],
-        "publisher": "A&C Black",
-        "publishedDate": "2013",
-        "description": "Special edition slipcase edition of John Green's Paper Towns, with pop-up paper town. From the bestselling author of The Fault in our Stars. Quentin Jacobsen has always loved Margo Roth Spiegelman, for Margo (and her adventures) are the stuff of legend at their high school. So when she one day climbs through his window and summons him on an all-night road trip of revenge he cannot help but follow. But the next day Margo doesn't come to school and a week later she is still missing. Q soon learns that there are clues in her disappearance . . . and they are for him. But as he gets deeper into the mystery - culminating in another awesome road trip across America - he becomes less sure of who and what he is looking for. Masterfully written by John Green, this is a thoughtful, insightful and hilarious coming-of-age story.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781408848180"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "140884818X"
+            "identifier": "9780871299208"
           }
         ],
         "readingModes": {
           "text": false,
           "image": true
         },
-        "pageCount": 305,
+        "pageCount": 80,
         "printType": "BOOK",
         "categories": [
-          "Bildungsromans"
+          "Drama"
         ],
         "averageRating": 4,
-        "ratingsCount": 315,
+        "ratingsCount": 134,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
-        "contentVersion": "preview-1.0.0",
+        "contentVersion": "1.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=MLacAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=MLacAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=0NEbHGREK7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0NEbHGREK7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=MLacAgAAQBAJ&printsec=frontcover&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=3&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=MLacAgAAQBAJ&dq=search+intitle:+To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Paper_Towns.html?hl=&id=MLacAgAAQBAJ"
+        "previewLink": "http://books.google.ca/books?id=0NEbHGREK7cC&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=0NEbHGREK7cC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird.html?hl=&id=0NEbHGREK7cC"
       },
       "saleInfo": {
         "country": "CA",
@@ -239,82 +69,141 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=MLacAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=0NEbHGREK7cC&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Quentin Jacobson has spent a lifetime loving Margo Roth Spiegelman from afar."
+        "textSnippet": "One of the best-loved stories of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960."
       }
     },
     {
       "kind": "books#volume",
-      "id": "FN5wMOZKTYMC",
-      "etag": "G3ucnafXtyA",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/FN5wMOZKTYMC",
+      "id": "EJUwetZIMZcC",
+      "etag": "ZC+PO5WBDic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EJUwetZIMZcC",
       "volumeInfo": {
-        "title": "Catching Fire (Hunger Games, Book Two)",
-        "authors": [
-          "Suzanne Collins"
-        ],
-        "publisher": "Scholastic Inc.",
-        "publishedDate": "2010-06-01",
-        "description": "The second book in Suzanne Collins's phenomenal and worldwide bestselling Hunger Games trilogy.",
+        "title": "To Kill a Mockingbird Study Guide and Student Workbook (Enhanced Ebook)",
+        "publisher": "BMI Educational Services",
+        "publishedDate": "2011-03-01",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780545227247"
+            "identifier": "9781609339005"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0545227240"
+            "identifier": "1609339002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=EJUwetZIMZcC&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=EJUwetZIMZcC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird_Study_Guide_and_St.html?hl=&id=EJUwetZIMZcC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EJUwetZIMZcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RwX0CAAAQBAJ",
+      "etag": "udRHXFIrd4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RwX0CAAAQBAJ",
+      "volumeInfo": {
+        "title": "To Kill A Mockingbird - Literature Kit Gr. 9-12",
+        "authors": [
+          "Paul Bramley"
+        ],
+        "publisher": "Classroom Complete Press",
+        "publishedDate": "2012-10-28",
+        "description": "In this State Standards-aligned Literature Kit™, we divide the novel by chapters or sections and feature reading comprehension and vocabulary questions. In every chapter, we include Before You Read and After You Read questions. The Before You Read activities prepare students for reading by setting a purpose for reading. They stimulate background knowledge and experience, and guide students to make connections between what they know and what they will learn. The After You Read activities check students' comprehension and extend their learning. Students are asked to give thoughtful consideration of the text through creative and evaluative short-answer questions and journal prompts. Also included are writing tasks, graphic organizers, comprehension quiz, test prep, word search, and crossword to further develop students' critical thinking and writing skills, and analysis of the text. About the Novel: To Kill a Mockingbird is a Pulitzer Prize winning story about a young girl and her family living in Maycomb, Alabama during the Depression. Six-year-old Scout Finch lives with her older brother Jem, and lawyer father Atticus. Scout and Jem befriend a boy named Dill who stays with his aunt each summer. The three children become fascinated with their neighbor, Boo Radley, who stays hidden in his home. One summer, Atticus is appointed by the court to defend a black man named Tom Robinson, who is accused of raping a young white woman. Atticus receives much disapproval from the townspeople, which leads to Scout, Jem and Dill saving their father and Tom from an angry mob. To Kill a Mockingbird is a classic of modern American literature. All of our content is aligned to your State Standards and are written to Bloom's Taxonomy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781553199885"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "155319988X"
           }
         ],
         "readingModes": {
           "text": true,
           "image": true
         },
-        "pageCount": 400,
+        "pageCount": 57,
         "printType": "BOOK",
         "categories": [
-          "Young Adult Fiction"
+          "Education"
         ],
-        "averageRating": 4,
-        "ratingsCount": 3459,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "0.23.23.0.preview.3",
+        "contentVersion": "2.3.2.0.preview.3",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=FN5wMOZKTYMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=FN5wMOZKTYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=RwX0CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RwX0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=FN5wMOZKTYMC&printsec=frontcover&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=4&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=FN5wMOZKTYMC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FN5wMOZKTYMC"
+        "previewLink": "http://books.google.ca/books?id=RwX0CAAAQBAJ&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RwX0CAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RwX0CAAAQBAJ"
       },
       "saleInfo": {
         "country": "CA",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 13.99,
+          "amount": 9.99,
           "currencyCode": "CAD"
         },
         "retailPrice": {
           "amount": 9.99,
           "currencyCode": "CAD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=FN5wMOZKTYMC&rdid=book-FN5wMOZKTYMC&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=RwX0CAAAQBAJ&rdid=book-RwX0CAAAQBAJ&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 13990000,
+              "amountInMicros": 9990000,
               "currencyCode": "CAD"
             },
             "retailPrice": {
@@ -332,94 +221,91 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Catching_Fire_Hunger_Games_Book_Two-sample-epub.acsm?id=FN5wMOZKTYMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": true
         },
         "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Catching_Fire_Hunger_Games_Book_Two-sample-pdf.acsm?id=FN5wMOZKTYMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": true
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=FN5wMOZKTYMC&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=RwX0CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "The second book in Suzanne Collins&#39;s phenomenal and worldwide bestselling Hunger Games trilogy."
+        "textSnippet": "Complete sentences from the story with their missing vocabulary words. Explore the choice of having Scout act as narrator in the story, and what advantages and disadvantages come with first person point of view."
       }
     },
     {
       "kind": "books#volume",
-      "id": "UiM3DwAAQBAJ",
-      "etag": "Vp+yrXFJB1M",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/UiM3DwAAQBAJ",
+      "id": "ODiPZs6DU60C",
+      "etag": "/cs5UBw6JQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ODiPZs6DU60C",
       "volumeInfo": {
-        "title": "Python for Data Analysis",
-        "subtitle": "Data Wrangling with Pandas, NumPy, and IPython",
+        "title": "To Kill a Mockingbird",
+        "subtitle": "Teacher Lesson Plans and Study Guide",
         "authors": [
-          "Wes McKinney"
+          "LessonCaps"
         ],
-        "publisher": "\"O'Reilly Media, Inc.\"",
-        "publishedDate": "2017-09-25",
-        "description": "Get complete instructions for manipulating, processing, cleaning, and crunching datasets in Python. Updated for Python 3.6, the second edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively. You’ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python. It’s ideal for analysts new to Python and for Python programmers new to data science and scientific computing. Data files and related material are available on GitHub. Use the IPython shell and Jupyter notebook for exploratory computing Learn basic and advanced features in NumPy (Numerical Python) Get started with data analysis tools in the pandas library Use flexible tools to load, clean, transform, merge, and reshape data Create informative visualizations with matplotlib Apply the pandas groupby facility to slice, dice, and summarize datasets Analyze and manipulate regular and irregular time series data Learn how to solve real-world data analysis problems with thorough, detailed examples",
+        "publisher": "BookCaps Study Guides",
+        "publishedDate": "2012-08-13",
+        "description": "Following Common Core Standards, this lesson plan for Harper Lee's, \" To Kill a Mockingbird\" is the perfect solution for teachers trying to get ideas for getting students excited about a book. BookCaps lesson plans cover five days worth of material. It includes a suggested reading schedule, discussion questions, essay topics, homework assignments, and suggested web resources. This book also includes a study guide to the book, which includes chapter summaries, overview of characters, plot summary, and overview of themes. Both the study guide and the lesson plan may be purchased individually; buy as a combo, however, and save.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781491957615"
+            "identifier": "9781621073475"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1491957611"
+            "identifier": "1621073475"
           }
         ],
         "readingModes": {
           "text": true,
           "image": true
         },
-        "pageCount": 550,
         "printType": "BOOK",
         "categories": [
-          "Computers"
+          "Reference"
         ],
-        "averageRating": 5,
-        "ratingsCount": 1,
+        "averageRating": 2.5,
+        "ratingsCount": 9,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "1.5.6.0.preview.3",
+        "contentVersion": "1.2.2.0.preview.3",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=UiM3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=UiM3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=ODiPZs6DU60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ODiPZs6DU60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=UiM3DwAAQBAJ&pg=PP1&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=5&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ"
+        "previewLink": "http://books.google.ca/books?id=ODiPZs6DU60C&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ODiPZs6DU60C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ODiPZs6DU60C"
       },
       "saleInfo": {
         "country": "CA",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 67.99,
+          "amount": 4.99,
           "currencyCode": "CAD"
         },
         "retailPrice": {
-          "amount": 67.99,
+          "amount": 4.99,
           "currencyCode": "CAD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=UiM3DwAAQBAJ&rdid=book-UiM3DwAAQBAJ&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=ODiPZs6DU60C&rdid=book-ODiPZs6DU60C&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 67990000,
+              "amountInMicros": 4990000,
               "currencyCode": "CAD"
             },
             "retailPrice": {
-              "amountInMicros": 67990000,
+              "amountInMicros": 4990000,
               "currencyCode": "CAD"
             },
             "giftable": true
@@ -433,232 +319,125 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-          "isAvailable": true
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-epub.acsm?id=ODiPZs6DU60C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-          "isAvailable": true
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-pdf.acsm?id=ODiPZs6DU60C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=UiM3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=ODiPZs6DU60C&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "You’ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python."
+        "textSnippet": "This book also includes a study guide to the book, which includes chapter summaries, overview of characters, plot summary, and overview of themes."
       }
     },
     {
       "kind": "books#volume",
-      "id": "SxkfEAAAQBAJ",
-      "etag": "qAgjvsp6+WQ",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/SxkfEAAAQBAJ",
+      "id": "LaMTiorjM9cC",
+      "etag": "Jsb2ux5i23A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LaMTiorjM9cC",
       "volumeInfo": {
-        "title": "Crossed By Death",
+        "title": "Harper Lee's To Kill a Mockingbird",
         "authors": [
-          "ACF Bookens"
+          "Harold Bloom",
+          "Harper Lee"
         ],
-        "publisher": "Andrea Cumbo-Floyd",
-        "publishedDate": "2021-02-23",
-        "description": "Salvaging from historic buildings isn’t supposed to require reporting a murder. When salvage expert and historian Paisley Sutton crawls into an abandoned store with a house attached, she certainly isn’t expecting to find a body on site. But soon, her discovery sends Paisley on an expedition through history that links this murder to the one that led the previous owners to abandon the building in the first place. And someone doesn’t want her to salvage this story from the wreckage. Can Paisley preserve herself and her young son while also uncovering the stories that matter most?",
+        "publisher": "Infobase Publishing",
+        "publishedDate": "2010",
+        "description": "The Crucible still has permanence and relevance a half century after its initial publication. This powerful political drama set amidst the Salem witch trials is commonly understood as Arthur Miller's poignant response to McCarthyism. This new edition featuring new critical essays examines this important work.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781952430138"
+            "identifier": "9781438132730"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1952430135"
+            "identifier": "1438132735"
           }
         ],
         "readingModes": {
           "text": true,
           "image": true
         },
-        "pageCount": 218,
+        "pageCount": 109,
         "printType": "BOOK",
         "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.3.4.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=SxkfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=SxkfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=SxkfEAAAQBAJ&pg=PP1&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=6&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=SxkfEAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SxkfEAAAQBAJ"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 0,
-          "currencyCode": "CAD"
-        },
-        "retailPrice": {
-          "amount": 0,
-          "currencyCode": "CAD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=SxkfEAAAQBAJ&rdid=book-SxkfEAAAQBAJ&rdot=1&source=gbs_api"
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "ALL_PAGES",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true
-        },
-        "pdf": {
-          "isAvailable": true
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=SxkfEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "And someone doesn’t want her to salvage this story from the wreckage. Can Paisley preserve herself and her young son while also uncovering the stories that matter most?"
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "EVq1iCtjZuAC",
-      "etag": "j89ftNYE8Hw",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/EVq1iCtjZuAC",
-      "volumeInfo": {
-        "title": "How to Stop Worrying and Start Living",
-        "authors": [
-          "Dale Carnegie"
-        ],
-        "publisher": "Simon and Schuster",
-        "publishedDate": "2010-08-24",
-        "description": "Learn how to break the worry habit -- Now and forever! With Dale Carnegie's timeless advice in hand, more than six million people have learned how to eliminate debilitating fear and worry from their lives and to embrace a worry-free future. In this classic work, How to Stop Worrying and Start Living, Carnegie offers a set of practical formulas that you can put to work today. It is a book packed with lessons that will last a lifetime and make that lifetime happier! DISCOVER HOW TO: Eliminate fifty percent of business worries immediately Reduce financial worries Avoid fatigue -- and keep looking young Add one hour a day to your waking life Find yourself and be yourself -- remember there is no one else on earth like you! Fascinating to read and easy to apply, How to Stop Worrying and Start Living deals with fundamental emotions and life-changing ideas. There's no need to live with worry and anxiety that keep you from enjoying a full, active life!",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781451621723"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1451621728"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": false
-        },
-        "pageCount": 320,
-        "printType": "BOOK",
-        "categories": [
-          "Self-Help"
+          "Fathers and daughters in literature"
         ],
         "averageRating": 4,
-        "ratingsCount": 1028,
+        "ratingsCount": 12,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "2.17.18.0.preview.2",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
+        "contentVersion": "0.0.2.0.preview.3",
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=EVq1iCtjZuAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=EVq1iCtjZuAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=LaMTiorjM9cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LaMTiorjM9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=EVq1iCtjZuAC&printsec=frontcover&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=7&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=EVq1iCtjZuAC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EVq1iCtjZuAC"
+        "previewLink": "http://books.google.ca/books?id=LaMTiorjM9cC&pg=PA77&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=LaMTiorjM9cC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harper_Lee_s_To_Kill_a_Mockingbird.html?hl=&id=LaMTiorjM9cC"
       },
       "saleInfo": {
         "country": "CA",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 12.99,
-          "currencyCode": "CAD"
-        },
-        "retailPrice": {
-          "amount": 12.99,
-          "currencyCode": "CAD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=EVq1iCtjZuAC&rdid=book-EVq1iCtjZuAC&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 12990000,
-              "currencyCode": "CAD"
-            },
-            "retailPrice": {
-              "amountInMicros": 12990000,
-              "currencyCode": "CAD"
-            },
-            "giftable": true
-          }
-        ]
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
       },
       "accessInfo": {
         "country": "CA",
         "viewability": "PARTIAL",
         "embeddable": true,
         "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "textToSpeechPermission": "ALLOWED",
         "epub": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/How_to_Stop_Worrying_and_Start_Living-sample-epub.acsm?id=EVq1iCtjZuAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-epub.acsm?id=LaMTiorjM9cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-          "isAvailable": false
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-pdf.acsm?id=LaMTiorjM9cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=EVq1iCtjZuAC&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=LaMTiorjM9cC&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Through Dale Carnegie’s six-million-copy bestseller recently revised, millions of people have been helped to overcome the worry habit. Dale Carnegie offers a set of practical formulas you can put to work today."
+        "textSnippet": "Review of To \u003cb\u003eKill a Mockingbird\u003c/b\u003e, by Harper Lee. ... In \u003cb\u003eSearch\u003c/b\u003e of Our Mothers&#39; Gardens. ... CHALLENGE AND EVOLUTION IN THE NOVEL To \u003cb\u003eKill a Mockingbird\u003c/b\u003e, Harper Lee&#39;s enormously popular novel, paints a portrait of the young Jean Louise,&nbsp;..."
       }
     },
     {
       "kind": "books#volume",
-      "id": "jZSSDAEACAAJ",
-      "etag": "7mdeVMaYtRk",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/jZSSDAEACAAJ",
+      "id": "OWkyswEACAAJ",
+      "etag": "u2SHv35TNjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OWkyswEACAAJ",
       "volumeInfo": {
-        "title": "Spark Notes to Kill a Mocking Bird",
+        "title": "Avem Occidere Mimicam",
+        "subtitle": "To Kill a Mockingbird Translated into Latin",
         "authors": [
           "Harper Lee"
         ],
-        "publisher": "Spark Notes",
-        "publishedDate": "2014",
-        "description": "SparkNotes LLC. offers a study guide for the Pulitzer Prize-winning novel \"To Kill a Mockingbird,\" written by American author Harper Lee (1926- ). The guide, compiled by Ross Douthat, contains a plot overview, character analysis, chapter summaries, quotations, and more.",
+        "publisher": "Souvenir Press",
+        "publishedDate": "2018-04-05",
+        "description": "Atticus Finch defends a black man charged with the rape of a white girl, while we see the world of the American South in the 1930s through the innocent eyes of Scout and Jem Finch. In understanding the racial injustice of her town, Scout gains a new awareness of kindness and cruelty and leaves her childhood behind. Andrew Wilson's translation is suitable for students of any ability, and he has developed the perfect resource for anyone studying, or teaching, Latin. His use of Latin vocabulary reflects the subtlety of Harper Lee's writing while providing an exciting new way to learn the language, as well as an opportunity to experience a classic American novel in a new way.",
         "industryIdentifiers": [
           {
             "type": "ISBN_10",
-            "identifier": "1411469739"
+            "identifier": "028564386X"
           },
           {
             "type": "ISBN_13",
-            "identifier": "9781411469730"
+            "identifier": "9780285643864"
           }
         ],
         "readingModes": {
           "text": false,
           "image": false
         },
-        "pageCount": 90,
+        "pageCount": 320,
         "printType": "BOOK",
-        "categories": [
-          "Study Aids"
-        ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
         "contentVersion": "preview-1.0.0",
@@ -667,13 +446,13 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=jZSSDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=jZSSDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=OWkyswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OWkyswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=jZSSDAEACAAJ&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=8&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=jZSSDAEACAAJ&dq=search+intitle:+To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Spark_Notes_to_Kill_a_Mocking_Bird.html?hl=&id=jZSSDAEACAAJ"
+        "previewLink": "http://books.google.ca/books?id=OWkyswEACAAJ&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=OWkyswEACAAJ&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Avem_Occidere_Mimicam.html?hl=&id=OWkyswEACAAJ"
       },
       "saleInfo": {
         "country": "CA",
@@ -692,91 +471,57 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=jZSSDAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=OWkyswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "&quot;Created by Harvard students for students everywhere, SparkNotes give you just what you need to succeed in school.&quot;--Back jacket"
+        "textSnippet": "His use of Latin vocabulary reflects the subtlety of Harper Lee&#39;s writing while providing an exciting new way to learn the language, as well as an opportunity to experience a classic American novel in a new way."
       }
     },
     {
       "kind": "books#volume",
-      "id": "zVYA6F2rfKoC",
-      "etag": "kU5X2FsnGFU",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/zVYA6F2rfKoC",
+      "id": "EJUwetZIMZcC",
+      "etag": "8WBkuKmeuc0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EJUwetZIMZcC",
       "volumeInfo": {
-        "title": "Stargirl",
-        "authors": [
-          "Jerry Spinelli"
-        ],
-        "publisher": "Knopf Books for Young Readers",
-        "publishedDate": "2001-11-13",
-        "description": "ONE OF TIME MAGAZINE’S 100 BEST YA BOOKS OF ALL TIME • NEW YORK TIMES BESTSELLER A modern-day classic from Newbery Medalist Jerry Spinelli, this beloved celebration of individuality is now an original movie on Disney+! And don't miss the author's highly anticipated new novel, Dead Wednesday! Stargirl. From the day she arrives at quiet Mica High in a burst of color and sound, the hallways hum with the murmur of “Stargirl, Stargirl.” She captures Leo Borlock’ s heart with just one smile. She sparks a school-spirit revolution with just one cheer. The students of Mica High are enchanted. At first. Then they turn on her. Stargirl is suddenly shunned for everything that makes her different, and Leo, panicked and desperate with love, urges her to become the very thing that can destroy her: normal. In this celebration of nonconformity, Newbery Medalist Jerry Spinelli weaves a tense, emotional tale about the perils of popularity and the thrill and inspiration of first love. Don’t miss the sequel, Love, Stargirl, as well as The Warden’s Daughter, a novel about another girl who can't help but stand out. “Spinelli is a poet of the prepubescent. . . . No writer guides his young characters, and his readers, past these pitfalls and challenges and toward their futures with more compassion.” —The New York Times",
+        "title": "To Kill a Mockingbird Study Guide and Student Workbook (Enhanced Ebook)",
+        "publisher": "BMI Educational Services",
+        "publishedDate": "2011-03-01",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9780375890024"
+            "identifier": "9781609339005"
           },
           {
             "type": "ISBN_10",
-            "identifier": "0375890025"
+            "identifier": "1609339002"
           }
         ],
         "readingModes": {
-          "text": true,
+          "text": false,
           "image": true
         },
-        "pageCount": 312,
         "printType": "BOOK",
         "categories": [
-          "Young Adult Fiction"
+          "Fiction"
         ],
-        "averageRating": 4,
-        "ratingsCount": 239,
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.15.16.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=zVYA6F2rfKoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=zVYA6F2rfKoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=zVYA6F2rfKoC&printsec=frontcover&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=9&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=zVYA6F2rfKoC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zVYA6F2rfKoC"
+        "previewLink": "http://books.google.ca/books?id=EJUwetZIMZcC&pg=PA126&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=EJUwetZIMZcC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird_Study_Guide_and_St.html?hl=&id=EJUwetZIMZcC"
       },
       "saleInfo": {
         "country": "CA",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 8.99,
-          "currencyCode": "CAD"
-        },
-        "retailPrice": {
-          "amount": 8.99,
-          "currencyCode": "CAD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=zVYA6F2rfKoC&rdid=book-zVYA6F2rfKoC&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 8990000,
-              "currencyCode": "CAD"
-            },
-            "retailPrice": {
-              "amountInMicros": 8990000,
-              "currencyCode": "CAD"
-            },
-            "giftable": true
-          }
-        ]
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
       },
       "accessInfo": {
         "country": "CA",
@@ -785,71 +530,58 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Stargirl-sample-epub.acsm?id=zVYA6F2rfKoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": false
         },
         "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Stargirl-sample-pdf.acsm?id=zVYA6F2rfKoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=zVYA6F2rfKoC&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=EJUwetZIMZcC&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Stargirl. From the day she arrives at quiet Mica High in a burst of color and sound, the hallways hum with the murmur of “Stargirl, Stargirl.” She captures Leo Borlock’ s heart with just one smile."
+        "textSnippet": "... Inc. TO \u003cb\u003eKILL A MOCKINGBIRD\u003c/b\u003e VOCABULARY WORD \u003cb\u003eSEARCH\u003c/b\u003e CHAPTERS 1-2. I K B V P Q Q L V S Y F J R R S R L G F L D S Y M M D Q J K F L M R E K C V B E D W Q M W L S L J G P L Q J N L L X D C D B F H P B L B J H T T L T C U Y T R T I Q V P&nbsp;..."
       }
     },
     {
       "kind": "books#volume",
-      "id": "Az5H-lEOYdAC",
-      "etag": "NJVu/04TnPQ",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/Az5H-lEOYdAC",
+      "id": "UAz9ZdDeXXMC",
+      "etag": "/5qu/plGld8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UAz9ZdDeXXMC",
       "volumeInfo": {
-        "title": "Beautiful Boy",
-        "subtitle": "A Father's Journey Through His Son's Addiction",
+        "title": "To Kill a Mockingbird",
         "authors": [
-          "David Sheff"
+          "Terry R. Gadd"
         ],
-        "publisher": "Houghton Mifflin Harcourt",
-        "publishedDate": "2008",
-        "description": "The story of one teenager's descent into methamphetamine addiction is told from his father's point of view, describing how a varsity athlete and honor student became addicted to the dangerous drug and its impact on his family.",
+        "publisher": "On The Mark Press",
+        "publishedDate": "2000",
         "industryIdentifiers": [
           {
-            "type": "ISBN_10",
-            "identifier": "0618683356"
+            "type": "ISBN_13",
+            "identifier": "9781550356113"
           },
           {
-            "type": "ISBN_13",
-            "identifier": "9780618683352"
+            "type": "ISBN_10",
+            "identifier": "1550356119"
           }
         ],
         "readingModes": {
           "text": false,
           "image": true
         },
-        "pageCount": 326,
+        "pageCount": 62,
         "printType": "BOOK",
-        "categories": [
-          "Biography & Autobiography"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 30,
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "2.2.3.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.1",
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=Az5H-lEOYdAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=Az5H-lEOYdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=UAz9ZdDeXXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UAz9ZdDeXXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=Az5H-lEOYdAC&printsec=frontcover&dq=search+intitle:+To+kill+a+mocking+bird&hl=&cd=10&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=Az5H-lEOYdAC&dq=search+intitle:+To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Beautiful_Boy.html?hl=&id=Az5H-lEOYdAC"
+        "previewLink": "http://books.google.ca/books?id=UAz9ZdDeXXMC&pg=PA41&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=UAz9ZdDeXXMC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird.html?hl=&id=UAz9ZdDeXXMC"
       },
       "saleInfo": {
         "country": "CA",
@@ -867,53 +599,277 @@
         },
         "pdf": {
           "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Beautiful_Boy-sample-pdf.acsm?id=Az5H-lEOYdAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-pdf.acsm?id=UAz9ZdDeXXMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=Az5H-lEOYdAC&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=UAz9ZdDeXXMC&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "The story of one teenager&#39;s descent into methamphetamine addiction is told from his father&#39;s point of view, describing how a varsity athlete and honor student became addicted to the dangerous drug and its impact on his family."
+        "textSnippet": "Word \u003cb\u003eSearch\u003c/b\u003e ATTICUS FINCH MISS cARoL|NE AUNT ALEXANDRA HARPER LEE MISS RAcHEL BOB EWELL HECK TATE NATHAN BOO RADLEY HELEN REVEREND SYKES BURRIS Y JEM SCOUT CALPURNIA JUDGE TAYLOR ToM ROBINSON cuNNiNeHAM LULA UNDERWOOD DlLL MAUDlE&nbsp;..."
       }
-    }
-  ]
-}
-. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel’s story is about to be completely rewritten. From John Green, #1 bestselling author of The Anthropocene Reviewed and Turtles All the Way Down, The Fault in Our Stars is insightful, bold, irreverent, and raw. It brilliantly explores the funny, thrilling, and tragic business of being alive and in love.",
+    },
+    {
+      "kind": "books#volume",
+      "id": "RyJtJZPX8jwC",
+      "etag": "Drta+R9gBCA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RyJtJZPX8jwC",
+      "volumeInfo": {
+        "title": "Harper Lee's To Kill a Mockingbird",
+        "subtitle": "New Essays",
+        "authors": [
+          "Michael J. Meyer"
+        ],
+        "publisher": "Scarecrow Press",
+        "publishedDate": "2010-10-14",
+        "description": "In 1960, To Kill a Mockingbird was published to critical acclaim. To commemorate To Kill a Mockingbird's 50th anniversary, Michael J. Meyer has assembled a collection of new essays that celebrate this enduring work of American literature. These essays approach the novel from educational, legal, social, and thematic perspectives. Harper Lee's only novel won the Pulitzer Prize and was transformed into a beloved film starring Gregory Peck as Atticus Finch. An American classic that frequently appears in middle school and high school curriculums, the novel has been subjected to criticism for its subject matter and language. Still relevant and meaningful, To Kill a Mockingbird has nonetheless been under-appreciated by many critics. There are few books that address Lee's novel's contribution to the American canon and still fewer that offer insights that can be used by teachers and by students. These essays suggest that author Harper Lee deserves more credit for skillfully shaping a masterpiece that not only addresses the problems of the 1930s but also helps its readers see the problems and prejudices the world faces today. Intended for high school and undergraduate usage, as well as for teachers planning to use To Kill a Mockingbird in their classrooms, this collection will be a valuable resource for all teachers of American literature.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781101569184"
+            "identifier": "9780810877238"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1101569182"
+            "identifier": "0810877236"
           }
         ],
         "readingModes": {
           "text": true,
-          "image": false
+          "image": true
         },
-        "pageCount": 336,
+        "pageCount": 290,
         "printType": "BOOK",
         "categories": [
-          "Young Adult Fiction"
+          "Literary Criticism"
         ],
-        "averageRating": 4.5,
-        "ratingsCount": 2046,
+        "averageRating": 3.5,
+        "ratingsCount": 15,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "2.11.13.0.preview.2",
+        "contentVersion": "0.1.2.0.preview.3",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=UzqVUdEtLDwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=UzqVUdEtLDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=RyJtJZPX8jwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RyJtJZPX8jwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=UzqVUdEtLDwC&printsec=frontcover&dq=search+intitle:+twilight&hl=&cd=10&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=RyJtJZPX8jwC&pg=PA94&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=RyJtJZPX8jwC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harper_Lee_s_To_Kill_a_Mockingbird.html?hl=&id=RyJtJZPX8jwC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-epub.acsm?id=RyJtJZPX8jwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-pdf.acsm?id=RyJtJZPX8jwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RyJtJZPX8jwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Despite critics&#39; protests to the contrary, Atticus is completely consistent in his \u003cb\u003esearch\u003c/b\u003e for the higher moral purpose in every aspect of life. He tells Scout that Tom&#39;s case “goes to the essence of a man&#39;s conscience” and confesses&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cFiNrjPcvucC",
+      "etag": "LP84AixMIFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cFiNrjPcvucC",
+      "volumeInfo": {
+        "title": "To Kill a Mockingbird Lit Link Gr. 7-8",
+        "publisher": "On The Mark Press",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781770722279"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1770722270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=cFiNrjPcvucC&pg=PA41&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 8.79,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&rdid=book-cFiNrjPcvucC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8790000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird_Lit_Link_Gr_7_8-sample-pdf.acsm?id=cFiNrjPcvucC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cFiNrjPcvucC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eFind\u003c/b\u003e the following names and words in the word \u003cb\u003esearch\u003c/b\u003e: When the new wore off his grandfather&#39;s watch, and carrying. Word \u003cb\u003eSearch\u003c/b\u003e ATTICUS AUNT ALEXANDRA BOB EWELL BOO RADLEY BURRIS CALPURNIA CUNNINGHAM DILL DOLPHUS RAYMOND FINCH HARPER&nbsp;..."
+      }
+    }
+  ]
+}
+dDate": "2021-06-01",
+        "description": "Long regarded as one of the greatest American novels of the twentieth century, The Great Gatsby expresses many of the central themes of the American myth: romance, love, the quest for wealth and status, loneliness, and corruption. The novel follows Jay Gatsby, a mysterious self-made man, in his desperate quest for the love of the beguiling Daisy Buchanan—and for a place in the highest ranks of society. Gatsby’s fate reflects the emptiness and disappointment that come from his search. First published in 1925, Gatsby is regarded as the epitome of the spirit of the Roaring Twenties: the fast life, new wealth, and a glamour and a frivolity that prove to be hollow. Fitzgerald’s genius portrays this world with humor, insight, and the profound sympathy that is the hallmark of all great fiction. F. Scott Fitzgerald (1896–1940) was one of the most admired writers of the twentieth century. His works include This Side of Paradise, The Beautiful and Damned, and Tender Is the Night. The Great Gatsby is by far his best-known and most beloved novel. Richard Smoley, author of the foreword and afterword, is the distinguished author of twelve books, mostly recently The Truth about Magic, also published by G&D. A graduate of Harvard and Oxford universities, he published First Flowering: The Best of the Harvard Advocate, 1866–1976, while still an undergraduate.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781722526771"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1722526777"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rj4qEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rj4qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=rj4qEAAAQBAJ&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rj4qEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rj4qEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rj4qEAAAQBAJ&rdid=book-rj4qEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-epub.acsm?id=rj4qEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-pdf.acsm?id=rj4qEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rj4qEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Long regarded as one of the greatest American novels of the twentieth century, The Great Gatsby expresses many of the central themes of the American myth: romance, love, the quest for wealth and status, loneliness, and corruption."
+      }
+    }
+  ]
+}
+VUdEtLDwC&printsec=frontcover&dq=search+intitle:+twilight&hl=&cd=10&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=UzqVUdEtLDwC&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UzqVUdEtLDwC"
       },
