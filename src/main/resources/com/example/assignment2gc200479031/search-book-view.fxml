@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="450.0" prefWidth="650.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment2gc200479031.SearchBookViewController">
+   <children>
+      <VBox alignment="CENTER" layoutX="24.0" layoutY="60.0" prefHeight="547.0" prefWidth="614.0" spacing="10.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER_LEFT" spacing="20.0">
+               <children>
+                  <TextField fx:id="searchTextField" alignment="TOP_LEFT" prefHeight="39.0" prefWidth="477.0" promptText="Input Book Title" />
+                  <Button mnemonicParsing="false" onAction="#searchBooks" prefHeight="47.0" prefWidth="128.0" text="Search" />
+               </children>
+            </HBox>
+            <ListView fx:id="resultListView" prefHeight="350.0" prefWidth="600.0" />
+            <Button fx:id="getDetailButton" mnemonicParsing="false" text="Get Book Details" />
+            <Label fx:id="msgLabel" prefHeight="17.0" prefWidth="95.0" />
+         </children>
+         <padding>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </padding>
+      </VBox>
+   </children>
+</AnchorPane>

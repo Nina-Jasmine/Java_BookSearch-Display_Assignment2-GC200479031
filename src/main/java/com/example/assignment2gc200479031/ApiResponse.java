@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ApiResponse {
     private String kind;
     private int totalItems;
-    private ArrayList<Book> items;
+    private Book[] items;
 
     public String getKind() {
         return kind;
@@ -15,7 +15,7 @@ public class ApiResponse {
         return totalItems;
     }
 
-    public ArrayList<Book> getItems() {
+    public Book[] getItems() {
         return items;
     }
 }
