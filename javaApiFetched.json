@@ -1,213 +1,80 @@
 {
   "kind": "books#volumes",
-  "totalItems": 180,
+  "totalItems": 391,
   "items": [
     {
       "kind": "books#volume",
-      "id": "0NEbHGREK7cC",
-      "etag": "C8e3LFUJcDg",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/0NEbHGREK7cC",
+      "id": "iXn5U2IzVH0C",
+      "etag": "nVsLQqJO9f0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iXn5U2IzVH0C",
       "volumeInfo": {
-        "title": "To Kill a Mockingbird",
+        "title": "The Great Gatsby",
+        "subtitle": "The Authorized Edition",
         "authors": [
-          "Harper Lee"
+          "F. Scott Fitzgerald"
         ],
-        "publisher": "Dramatic Publishing",
-        "publishedDate": "1970",
-        "description": "Harper Lee's classic novel of a lawyer in the Deep South defending a black man charged with the rape of a white girl. One of the best-loved stories of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960. It won the Pulitzer Prize, has been translated into more than forty languages, sold more than thirty million copies worldwide, and been made into an enormously popular movie. Most recently, librarians across the country gave the book the highest of honors by voting it the best novel of the twentieth century.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "0871299208"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780871299208"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "pageCount": 80,
-        "printType": "BOOK",
-        "categories": [
-          "Drama"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 134,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.1.2.0.preview.1",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=0NEbHGREK7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=0NEbHGREK7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=0NEbHGREK7cC&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=0NEbHGREK7cC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird.html?hl=&id=0NEbHGREK7cC"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=0NEbHGREK7cC&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "One of the best-loved stories of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "EJUwetZIMZcC",
-      "etag": "ZC+PO5WBDic",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/EJUwetZIMZcC",
-      "volumeInfo": {
-        "title": "To Kill a Mockingbird Study Guide and Student Workbook (Enhanced Ebook)",
-        "publisher": "BMI Educational Services",
-        "publishedDate": "2011-03-01",
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2003-05-27",
+        "description": "The only authorized edition of the twentieth-century classic, featuring F. Scott Fitzgerald’s final revisions, a foreword by his granddaughter, and a new introduction by National Book Award winner Jesmyn Ward. The Great Gatsby, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. First published in 1925, this quintessential novel of the Jazz Age has been acclaimed by generations of readers. The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” it is an exquisitely crafted tale of America in the 1920s.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781609339005"
+            "identifier": "9780743246392"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1609339002"
+            "identifier": "074324639X"
           }
         ],
         "readingModes": {
-          "text": false,
-          "image": true
+          "text": true,
+          "image": false
         },
+        "pageCount": 165,
         "printType": "BOOK",
         "categories": [
           "Fiction"
         ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.0.1.0.preview.1",
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=EJUwetZIMZcC&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=EJUwetZIMZcC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird_Study_Guide_and_St.html?hl=&id=EJUwetZIMZcC"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=EJUwetZIMZcC&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "RwX0CAAAQBAJ",
-      "etag": "udRHXFIrd4o",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/RwX0CAAAQBAJ",
-      "volumeInfo": {
-        "title": "To Kill A Mockingbird - Literature Kit Gr. 9-12",
-        "authors": [
-          "Paul Bramley"
-        ],
-        "publisher": "Classroom Complete Press",
-        "publishedDate": "2012-10-28",
-        "description": "In this State Standards-aligned Literature Kit™, we divide the novel by chapters or sections and feature reading comprehension and vocabulary questions. In every chapter, we include Before You Read and After You Read questions. The Before You Read activities prepare students for reading by setting a purpose for reading. They stimulate background knowledge and experience, and guide students to make connections between what they know and what they will learn. The After You Read activities check students' comprehension and extend their learning. Students are asked to give thoughtful consideration of the text through creative and evaluative short-answer questions and journal prompts. Also included are writing tasks, graphic organizers, comprehension quiz, test prep, word search, and crossword to further develop students' critical thinking and writing skills, and analysis of the text. About the Novel: To Kill a Mockingbird is a Pulitzer Prize winning story about a young girl and her family living in Maycomb, Alabama during the Depression. Six-year-old Scout Finch lives with her older brother Jem, and lawyer father Atticus. Scout and Jem befriend a boy named Dill who stays with his aunt each summer. The three children become fascinated with their neighbor, Boo Radley, who stays hidden in his home. One summer, Atticus is appointed by the court to defend a black man named Tom Robinson, who is accused of raping a young white woman. Atticus receives much disapproval from the townspeople, which leads to Scout, Jem and Dill saving their father and Tom from an angry mob. To Kill a Mockingbird is a classic of modern American literature. All of our content is aligned to your State Standards and are written to Bloom's Taxonomy.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781553199885"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "155319988X"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 57,
-        "printType": "BOOK",
-        "categories": [
-          "Education"
-        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3116,
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "2.3.2.0.preview.3",
+        "contentVersion": "0.27.23.0.preview.2",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=RwX0CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=RwX0CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=iXn5U2IzVH0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iXn5U2IzVH0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=RwX0CAAAQBAJ&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=3&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=RwX0CAAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RwX0CAAAQBAJ"
+        "previewLink": "http://books.google.ca/books?id=iXn5U2IzVH0C&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iXn5U2IzVH0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iXn5U2IzVH0C"
       },
       "saleInfo": {
         "country": "CA",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 9.99,
+          "amount": 1.99,
           "currencyCode": "CAD"
         },
         "retailPrice": {
-          "amount": 9.99,
+          "amount": 1.99,
           "currencyCode": "CAD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=RwX0CAAAQBAJ&rdid=book-RwX0CAAAQBAJ&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=iXn5U2IzVH0C&rdid=book-iXn5U2IzVH0C&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 9990000,
+              "amountInMicros": 1990000,
               "currencyCode": "CAD"
             },
             "retailPrice": {
-              "amountInMicros": 9990000,
+              "amountInMicros": 1990000,
               "currencyCode": "CAD"
             },
             "giftable": true
@@ -219,225 +86,54 @@
         "viewability": "PARTIAL",
         "embeddable": true,
         "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
         "epub": {
-          "isAvailable": true
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-epub.acsm?id=iXn5U2IzVH0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
         "pdf": {
-          "isAvailable": true
+          "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=RwX0CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=iXn5U2IzVH0C&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "Complete sentences from the story with their missing vocabulary words. Explore the choice of having Scout act as narrator in the story, and what advantages and disadvantages come with first person point of view."
+        "textSnippet": "The Great Gatsby, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. First published in 1925, this quintessential novel of the Jazz Age has been acclaimed by generations of readers."
       }
     },
     {
       "kind": "books#volume",
-      "id": "ODiPZs6DU60C",
-      "etag": "/cs5UBw6JQ4",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/ODiPZs6DU60C",
+      "id": "1EIsEAAAQBAJ",
+      "etag": "KDsS4wDs+pY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1EIsEAAAQBAJ",
       "volumeInfo": {
-        "title": "To Kill a Mockingbird",
-        "subtitle": "Teacher Lesson Plans and Study Guide",
+        "title": "The Great Gatsby",
         "authors": [
-          "LessonCaps"
+          "F. Scott Fitzgerald"
         ],
-        "publisher": "BookCaps Study Guides",
-        "publishedDate": "2012-08-13",
-        "description": "Following Common Core Standards, this lesson plan for Harper Lee's, \" To Kill a Mockingbird\" is the perfect solution for teachers trying to get ideas for getting students excited about a book. BookCaps lesson plans cover five days worth of material. It includes a suggested reading schedule, discussion questions, essay topics, homework assignments, and suggested web resources. This book also includes a study guide to the book, which includes chapter summaries, overview of characters, plot summary, and overview of themes. Both the study guide and the lesson plan may be purchased individually; buy as a combo, however, and save.",
+        "publisher": "Graphic Arts Books",
+        "publishedDate": "2021-04-27",
+        "description": "The Great Gatsby (1925) is a novel by F. Scott Fitzgerald. Published at the height of Fitzgerald’s career as a leading writer of American fiction, The Great Gatsby was reviewed poorly by contemporary critics, but has since been recognized as a groundbreaking work for its vision of American decadence and decay. Adapted into several influential films and adored by generations of readers and writers, The Great Gatsby is not only Fitzgerald’s crowning achievement, but one of the finest novels ever written. Nick Carraway is a young veteran and Yale graduate who moves to New York in search of work. He rents a bungalow on Long Island next door to the extravagant mansion of Jay Gatsby, a magnanimous millionaire with a mysterious past. There, he reconnects with his distant cousin Daisy and her husband Tom Buchanan, a flagrant philanderer who brings Nick to the city in order to spend time with Myrtle, his impoverished mistress. Soon, he receives an invitation to a party at the Gatsby mansion, where he gets terribly drunk and meets his neighbor, who swears they served together in the Great War. As time goes by, the two begin a tenuous friendship bolstered by stories of the war and a mutual fondness for alcohol. When Nick discovers that Gatsby and Daisy have a complicated history with one another, he starts to question not only the nature of his neighbor’s kindness, but his own desire to make it big in New York. The Great Gatsby is a tragic tale of ambition and romance set in the Roaring Twenties, a decade born from war and lost to economic disaster. With a beautifully designed cover and professionally typeset manuscript, this new edition of F. Scott Fitzgerald’s The Great Gatsby is a classic work of American literature reimagined for modern readers.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781621073475"
+            "identifier": "9781513285023"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1621073475"
+            "identifier": "1513285025"
           }
         ],
         "readingModes": {
           "text": true,
           "image": true
         },
+        "pageCount": 134,
         "printType": "BOOK",
         "categories": [
-          "Reference"
+          "Fiction"
         ],
-        "averageRating": 2.5,
-        "ratingsCount": 9,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "1.2.2.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=ODiPZs6DU60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=ODiPZs6DU60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=ODiPZs6DU60C&printsec=frontcover&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=4&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=ODiPZs6DU60C&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ODiPZs6DU60C"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 4.99,
-          "currencyCode": "CAD"
-        },
-        "retailPrice": {
-          "amount": 4.99,
-          "currencyCode": "CAD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=ODiPZs6DU60C&rdid=book-ODiPZs6DU60C&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 4990000,
-              "currencyCode": "CAD"
-            },
-            "retailPrice": {
-              "amountInMicros": 4990000,
-              "currencyCode": "CAD"
-            },
-            "giftable": true
-          }
-        ]
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-epub.acsm?id=ODiPZs6DU60C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-pdf.acsm?id=ODiPZs6DU60C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=ODiPZs6DU60C&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "This book also includes a study guide to the book, which includes chapter summaries, overview of characters, plot summary, and overview of themes."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "LaMTiorjM9cC",
-      "etag": "Jsb2ux5i23A",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/LaMTiorjM9cC",
-      "volumeInfo": {
-        "title": "Harper Lee's To Kill a Mockingbird",
-        "authors": [
-          "Harold Bloom",
-          "Harper Lee"
-        ],
-        "publisher": "Infobase Publishing",
-        "publishedDate": "2010",
-        "description": "The Crucible still has permanence and relevance a half century after its initial publication. This powerful political drama set amidst the Salem witch trials is commonly understood as Arthur Miller's poignant response to McCarthyism. This new edition featuring new critical essays examines this important work.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781438132730"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1438132735"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 109,
-        "printType": "BOOK",
-        "categories": [
-          "Fathers and daughters in literature"
-        ],
-        "averageRating": 4,
-        "ratingsCount": 12,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.0.2.0.preview.3",
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=LaMTiorjM9cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=LaMTiorjM9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=LaMTiorjM9cC&pg=PA77&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=5&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=LaMTiorjM9cC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Harper_Lee_s_To_Kill_a_Mockingbird.html?hl=&id=LaMTiorjM9cC"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-epub.acsm?id=LaMTiorjM9cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-pdf.acsm?id=LaMTiorjM9cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=LaMTiorjM9cC&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Review of To \u003cb\u003eKill a Mockingbird\u003c/b\u003e, by Harper Lee. ... In \u003cb\u003eSearch\u003c/b\u003e of Our Mothers&#39; Gardens. ... CHALLENGE AND EVOLUTION IN THE NOVEL To \u003cb\u003eKill a Mockingbird\u003c/b\u003e, Harper Lee&#39;s enormously popular novel, paints a portrait of the young Jean Louise,&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "OWkyswEACAAJ",
-      "etag": "u2SHv35TNjo",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/OWkyswEACAAJ",
-      "volumeInfo": {
-        "title": "Avem Occidere Mimicam",
-        "subtitle": "To Kill a Mockingbird Translated into Latin",
-        "authors": [
-          "Harper Lee"
-        ],
-        "publisher": "Souvenir Press",
-        "publishedDate": "2018-04-05",
-        "description": "Atticus Finch defends a black man charged with the rape of a white girl, while we see the world of the American South in the 1930s through the innocent eyes of Scout and Jem Finch. In understanding the racial injustice of her town, Scout gains a new awareness of kindness and cruelty and leaves her childhood behind. Andrew Wilson's translation is suitable for students of any ability, and he has developed the perfect resource for anyone studying, or teaching, Latin. His use of Latin vocabulary reflects the subtlety of Harper Lee's writing while providing an exciting new way to learn the language, as well as an opportunity to experience a classic American novel in a new way.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_10",
-            "identifier": "028564386X"
-          },
-          {
-            "type": "ISBN_13",
-            "identifier": "9780285643864"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": false
-        },
-        "pageCount": 320,
-        "printType": "BOOK",
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
         "contentVersion": "preview-1.0.0",
@@ -446,13 +142,174 @@
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=OWkyswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=OWkyswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=1EIsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1EIsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=OWkyswEACAAJ&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=6&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=OWkyswEACAAJ&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Avem_Occidere_Mimicam.html?hl=&id=OWkyswEACAAJ"
+        "previewLink": "http://books.google.ca/books?id=1EIsEAAAQBAJ&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1EIsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1EIsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1EIsEAAAQBAJ&rdid=book-1EIsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-epub.acsm?id=1EIsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/The_Great_Gatsby-sample-pdf.acsm?id=1EIsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1EIsEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Great Gatsby is the story of a lost generation, a novel fortune and failure by F. Scott Fitzgerald."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D7iRLn8ZsAIC",
+      "etag": "qilnNSDLLoQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D7iRLn8ZsAIC",
+      "volumeInfo": {
+        "title": "Understanding The Great Gatsby",
+        "subtitle": "A Student Casebook to Issues, Sources, and Historical Documents",
+        "authors": [
+          "Dalton Gross",
+          "MaryJean Gross"
+        ],
+        "publisher": "Greenwood Publishing Group",
+        "publishedDate": "1998",
+        "description": "The only companion to The Great Gatsby to provide a rich collection of primary documents that illuminates its historical, social and cultural context.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0313300976"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780313300974"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D7iRLn8ZsAIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D7iRLn8ZsAIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=D7iRLn8ZsAIC&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=D7iRLn8ZsAIC&dq=search+intitle:the+great+gatsby&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_The_Great_Gatsby.html?hl=&id=D7iRLn8ZsAIC"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Understanding_The_Great_Gatsby-sample-epub.acsm?id=D7iRLn8ZsAIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Understanding_The_Great_Gatsby-sample-pdf.acsm?id=D7iRLn8ZsAIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D7iRLn8ZsAIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The only companion to The Great Gatsby to provide a rich collection of primary documents that illuminates its historical, social and cultural context."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uZygNwAACAAJ",
+      "etag": "F9lWmTwEKeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uZygNwAACAAJ",
+      "volumeInfo": {
+        "title": "In Search of Wonder",
+        "subtitle": "Time and The Great Gatsby",
+        "authors": [
+          "Paul Clynton Cofer"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:33841872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=uZygNwAACAAJ&dq=search+intitle:the+great+gatsby&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=uZygNwAACAAJ&dq=search+intitle:the+great+gatsby&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/In_Search_of_Wonder.html?hl=&id=uZygNwAACAAJ"
       },
       "saleInfo": {
         "country": "CA",
@@ -471,286 +328,149 @@
         "pdf": {
           "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=OWkyswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=uZygNwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1VTxngEACAAJ",
+      "etag": "dJ1sF8kIUgU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1VTxngEACAAJ",
+      "volumeInfo": {
+        "title": "1925 Novels",
+        "subtitle": "The Great Gatsby, the Trial, in Search of Lost Time, Porgy, the Secret of Chimneys, the Temple at Thatch, the Professor's Ho",
+        "authors": [
+          "Source Wikipedia"
+        ],
+        "publisher": "University-Press.org",
+        "publishedDate": "2013-09",
+        "description": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Commentary (novels not included). Pages: 55. Chapters: The Great Gatsby, The Trial, In Search of Lost Time, Porgy, The Secret of Chimneys, The Temple at Thatch, The Professor's House, Mrs Dalloway, Heart of a Dog, No More Parades, An American Tragedy, Sam the Sudden, The Gates of Morning, The Cave Girl, Arrowsmith, The Clayhanger Family, The Counterfeiters, Bread Givers, Emily Climbs, The Painted Veil, Wild Geese, The Man Nobody Knows, The House Without a Key, The Eternal Lover, Albertine disparue, Gentlemen Prefer Blondes, The Making of Americans, Pastors and Masters, Simon the Coldheart, The Wind, Dimsie Goes to School, Jud Suss, John Macnab, Firecrackers. A Realistic Novel, The Great Pacific War, Manhattan Transfer, The Informer, Barren Ground, The Spring to Come, Doctor Dolittle's Zoo, Kanakalata, The Sailor's Return, Cement, Dark Laughter, Those Barren Leaves, Thunder on the Left, Les Navigateurs de l'infini. Excerpt: In Search of Lost Time or Remembrance of Things Past (French: ) is a novel in seven volumes by Marcel Proust. His most prominent work, it is popularly known for its length and the notion of involuntary memory, the most famous example being the \"episode of the madeleine.\" The novel is widely referred to in English as Remembrance of Things Past but the title In Search of Lost Time, a literal rendering of the French, has gained in usage since D.J. Enright adopted it in his 1992 revision of the earlier translation by C.K. Scott Moncrieff and Terence Kilmartin. The complete story contains nearly 1.5 million words and is one of the longest novels in world literature. The novel as it is known today began to take shape in 1909 and work continued for the remainder of Proust's life, broken off only by his final illness and death in the autumn of 1922. The structure was established early on and the novel is complete as a work..",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1230490639"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781230490632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1VTxngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1VTxngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=1VTxngEACAAJ&dq=search+intitle:the+great+gatsby&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=1VTxngEACAAJ&dq=search+intitle:the+great+gatsby&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1925_Novels.html?hl=&id=1VTxngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1VTxngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "NONE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "His use of Latin vocabulary reflects the subtlety of Harper Lee&#39;s writing while providing an exciting new way to learn the language, as well as an opportunity to experience a classic American novel in a new way."
+        "textSnippet": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online."
       }
     },
     {
       "kind": "books#volume",
-      "id": "EJUwetZIMZcC",
-      "etag": "8WBkuKmeuc0",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/EJUwetZIMZcC",
+      "id": "dJ3CCQAAQBAJ",
+      "etag": "3aqxEXv5Aus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dJ3CCQAAQBAJ",
       "volumeInfo": {
-        "title": "To Kill a Mockingbird Study Guide and Student Workbook (Enhanced Ebook)",
-        "publisher": "BMI Educational Services",
-        "publishedDate": "2011-03-01",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781609339005"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1609339002"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
-        "printType": "BOOK",
-        "categories": [
-          "Fiction"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "0.0.1.0.preview.1",
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=EJUwetZIMZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=EJUwetZIMZcC&pg=PA126&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=7&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=EJUwetZIMZcC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird_Study_Guide_and_St.html?hl=&id=EJUwetZIMZcC"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": false
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=EJUwetZIMZcC&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "... Inc. TO \u003cb\u003eKILL A MOCKINGBIRD\u003c/b\u003e VOCABULARY WORD \u003cb\u003eSEARCH\u003c/b\u003e CHAPTERS 1-2. I K B V P Q Q L V S Y F J R R S R L G F L D S Y M M D Q J K F L M R E K C V B E D W Q M W L S L J G P L Q J N L L X D C D B F H P B L B J H T T L T C U Y T R T I Q V P&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "UAz9ZdDeXXMC",
-      "etag": "/5qu/plGld8",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/UAz9ZdDeXXMC",
-      "volumeInfo": {
-        "title": "To Kill a Mockingbird",
+        "title": "The Great Gatsby (F. Scott Fitzgerald)",
+        "subtitle": "",
         "authors": [
-          "Terry R. Gadd"
+          "Chad Ibbotson"
         ],
-        "publisher": "On The Mark Press",
-        "publishedDate": "2000",
+        "publisher": "Classroom Complete Press",
+        "publishedDate": "2016-01-01",
+        "description": "In this State Standards-aligned Literature Kit™, we divide the novel by chapters or sections and feature reading comprehension and vocabulary questions. In every section, we include Before You Read and After You Read questions. The Before You Read activities prepare students for reading by setting a purpose for reading. They stimulate background knowledge and experience, and guide students to make connections between what they know and what they will learn. The After You Read activities check students' comprehension and extend their learning. Students are asked to give thoughtful consideration of the text through creative and evaluative short-answer questions and journal prompts. Also included are writing tasks, graphic organizers, comprehension quiz, test prep, word search, and crossword to further develop students' critical thinking and writing skills, and analysis of the text. About the Novel: The Great Gatsby, written by F. Scott Fitzgerald, is a story about a man prospering from the Jazz Age, and his inevitable downfall. Told through the eyes of Nick Carraway, we are introduced to his mysterious neighbor—Jay Gatsby—who spends every evening throwing lavish parties. One such night, Nick is extended an invitation. There, we learn of Gatsby's intention of using Nick to facilitate a reunion between Gatsby and his lost love, Daisy Buchanan.. Daisy, who lives across the lake in the house with the green light at the end of the dock, also happens to be Nick's cousin. Daisy and Gatsby reunion leads to a tragic love affair that changes the lives of each character forever. The Great Gatsby is a classic tale of the rise and fall, and perseverance of mankind. All of our content is aligned to your State Standards and are written to Bloom's Taxonomy.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781550356113"
+            "identifier": "9781771673945"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1550356119"
+            "identifier": "177167394X"
           }
         ],
         "readingModes": {
           "text": false,
           "image": true
         },
-        "pageCount": 62,
-        "printType": "BOOK",
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
-        "contentVersion": "1.1.0.0.preview.1",
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=UAz9ZdDeXXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=UAz9ZdDeXXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=UAz9ZdDeXXMC&pg=PA41&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=8&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=UAz9ZdDeXXMC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird.html?hl=&id=UAz9ZdDeXXMC"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": false
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird-sample-pdf.acsm?id=UAz9ZdDeXXMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=UAz9ZdDeXXMC&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Word \u003cb\u003eSearch\u003c/b\u003e ATTICUS FINCH MISS cARoL|NE AUNT ALEXANDRA HARPER LEE MISS RAcHEL BOB EWELL HECK TATE NATHAN BOO RADLEY HELEN REVEREND SYKES BURRIS Y JEM SCOUT CALPURNIA JUDGE TAYLOR ToM ROBINSON cuNNiNeHAM LULA UNDERWOOD DlLL MAUDlE&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "RyJtJZPX8jwC",
-      "etag": "Drta+R9gBCA",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/RyJtJZPX8jwC",
-      "volumeInfo": {
-        "title": "Harper Lee's To Kill a Mockingbird",
-        "subtitle": "New Essays",
-        "authors": [
-          "Michael J. Meyer"
-        ],
-        "publisher": "Scarecrow Press",
-        "publishedDate": "2010-10-14",
-        "description": "In 1960, To Kill a Mockingbird was published to critical acclaim. To commemorate To Kill a Mockingbird's 50th anniversary, Michael J. Meyer has assembled a collection of new essays that celebrate this enduring work of American literature. These essays approach the novel from educational, legal, social, and thematic perspectives. Harper Lee's only novel won the Pulitzer Prize and was transformed into a beloved film starring Gregory Peck as Atticus Finch. An American classic that frequently appears in middle school and high school curriculums, the novel has been subjected to criticism for its subject matter and language. Still relevant and meaningful, To Kill a Mockingbird has nonetheless been under-appreciated by many critics. There are few books that address Lee's novel's contribution to the American canon and still fewer that offer insights that can be used by teachers and by students. These essays suggest that author Harper Lee deserves more credit for skillfully shaping a masterpiece that not only addresses the problems of the 1930s but also helps its readers see the problems and prejudices the world faces today. Intended for high school and undergraduate usage, as well as for teachers planning to use To Kill a Mockingbird in their classrooms, this collection will be a valuable resource for all teachers of American literature.",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9780810877238"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "0810877236"
-          }
-        ],
-        "readingModes": {
-          "text": true,
-          "image": true
-        },
-        "pageCount": 290,
-        "printType": "BOOK",
-        "categories": [
-          "Literary Criticism"
-        ],
-        "averageRating": 3.5,
-        "ratingsCount": 15,
-        "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": true,
-        "contentVersion": "0.1.2.0.preview.3",
-        "panelizationSummary": {
-          "containsEpubBubbles": false,
-          "containsImageBubbles": false
-        },
-        "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=RyJtJZPX8jwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=RyJtJZPX8jwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "previewLink": "http://books.google.ca/books?id=RyJtJZPX8jwC&pg=PA94&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=9&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=RyJtJZPX8jwC&dq=search+intitle:To+kill+a+mocking+bird&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/Harper_Lee_s_To_Kill_a_Mockingbird.html?hl=&id=RyJtJZPX8jwC"
-      },
-      "saleInfo": {
-        "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
-      },
-      "accessInfo": {
-        "country": "CA",
-        "viewability": "PARTIAL",
-        "embeddable": true,
-        "publicDomain": false,
-        "textToSpeechPermission": "ALLOWED",
-        "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-epub.acsm?id=RyJtJZPX8jwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/Harper_Lee_s_To_Kill_a_Mockingbird-sample-pdf.acsm?id=RyJtJZPX8jwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-        },
-        "webReaderLink": "http://play.google.com/books/reader?id=RyJtJZPX8jwC&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Despite critics&#39; protests to the contrary, Atticus is completely consistent in his \u003cb\u003esearch\u003c/b\u003e for the higher moral purpose in every aspect of life. He tells Scout that Tom&#39;s case “goes to the essence of a man&#39;s conscience” and confesses&nbsp;..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "cFiNrjPcvucC",
-      "etag": "LP84AixMIFg",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/cFiNrjPcvucC",
-      "volumeInfo": {
-        "title": "To Kill a Mockingbird Lit Link Gr. 7-8",
-        "publisher": "On The Mark Press",
-        "industryIdentifiers": [
-          {
-            "type": "ISBN_13",
-            "identifier": "9781770722279"
-          },
-          {
-            "type": "ISBN_10",
-            "identifier": "1770722270"
-          }
-        ],
-        "readingModes": {
-          "text": false,
-          "image": true
-        },
+        "pageCount": 57,
         "printType": "BOOK",
         "categories": [
           "Education"
         ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "preview-1.0.0",
+        "contentVersion": "0.2.0.0.preview.1",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=dJ3CCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dJ3CCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=cFiNrjPcvucC&pg=PA41&dq=search+intitle:To+kill+a+mocking+bird&hl=&cd=10&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC"
+        "previewLink": "http://books.google.ca/books?id=dJ3CCQAAQBAJ&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dJ3CCQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dJ3CCQAAQBAJ"
       },
       "saleInfo": {
         "country": "CA",
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 10.99,
+          "amount": 9.99,
           "currencyCode": "CAD"
         },
         "retailPrice": {
-          "amount": 8.79,
+          "amount": 9.99,
           "currencyCode": "CAD"
         },
-        "buyLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&rdid=book-cFiNrjPcvucC&rdot=1&source=gbs_api",
+        "buyLink": "https://play.google.com/store/books/details?id=dJ3CCQAAQBAJ&rdid=book-dJ3CCQAAQBAJ&rdot=1&source=gbs_api",
         "offers": [
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 10990000,
+              "amountInMicros": 9990000,
               "currencyCode": "CAD"
             },
             "retailPrice": {
-              "amountInMicros": 8790000,
+              "amountInMicros": 9990000,
               "currencyCode": "CAD"
             },
             "giftable": true
@@ -767,20 +487,254 @@
           "isAvailable": false
         },
         "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird_Lit_Link_Gr_7_8-sample-pdf.acsm?id=cFiNrjPcvucC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": true
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=cFiNrjPcvucC&hl=&printsec=frontcover&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=dJ3CCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "\u003cb\u003eFind\u003c/b\u003e the following names and words in the word \u003cb\u003esearch\u003c/b\u003e: When the new wore off his grandfather&#39;s watch, and carrying. Word \u003cb\u003eSearch\u003c/b\u003e ATTICUS AUNT ALEXANDRA BOB EWELL BOO RADLEY BURRIS CALPURNIA CUNNINGHAM DILL DOLPHUS RAYMOND FINCH HARPER&nbsp;..."
+        "textSnippet": "Students brainstorm the different themes that may be presented prior to reading the novel. Use evidence from the text to explain how Nick describes Myrtle&#39;s sister. Complete sentences from the story with their missing vocabulary words."
       }
-    }
-  ]
-}
-dDate": "2021-06-01",
+    },
+    {
+      "kind": "books#volume",
+      "id": "R7NFPgAACAAJ",
+      "etag": "oVbInqafyvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R7NFPgAACAAJ",
+      "volumeInfo": {
+        "title": "The Great Gatsby",
+        "authors": [
+          "Francis Scott Fitzgerald"
+        ],
+        "publisher": "G. K. Hall",
+        "publishedDate": "1925",
+        "description": "Author's first literary masterpiece, captures all the romance of the Jazz Age in its portrayal of the fabulously wealthy Jay Gatsby's search for love and success.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0745130445"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780745130446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "First loves"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 3025,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=R7NFPgAACAAJ&dq=search+intitle:the+great+gatsby&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=R7NFPgAACAAJ&dq=search+intitle:the+great+gatsby&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby.html?hl=&id=R7NFPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R7NFPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Author&#39;s first literary masterpiece, captures all the romance of the Jazz Age in its portrayal of the fabulously wealthy Jay Gatsby&#39;s search for love and success."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NUBKAAAAQBAJ",
+      "etag": "xFhvxIfrgfU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NUBKAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Careless People",
+        "subtitle": "Murder, Mayhem, and the Invention of The Great Gatsby",
+        "authors": [
+          "Sarah Churchwell"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2014-01-23",
+        "description": "Kirkus (STARRED review) \"Churchwell... has written an excellent book... she’s earned the right to play on [Fitzgerald's] court. Prodigious research and fierce affection illumine every remarkable page.” The autumn of 1922 found F. Scott Fitzgerald at the height of his fame, days from turning twenty-six years old, and returning to New York for the publication of his fourth book, Tales of the Jazz Age. A spokesman for America’s carefree younger generation, Fitzgerald found a home in the glamorous and reckless streets of New York. Here, in the final incredible months of 1922, Scott and Zelda Fitzgerald drank and quarreled and partied amid financial scandals, literary milestones, car crashes, and celebrity disgraces. Yet the Fitzgeralds’ triumphant return to New York coincided with another event: the discovery of a brutal double murder in nearby New Jersey, a crime made all the more horrible by the farce of a police investigation—which failed to accomplish anything beyond generating enormous publicity for the newfound celebrity participants. Proclaimed the “crime of the decade” even as its proceedings dragged on for years, the Mills-Hall murder has been wholly forgotten today. But the enormous impact of this bizarre crime can still be felt in The Great Gatsby, a novel Fitzgerald began planning that autumn of 1922 and whose plot he ultimately set within that fateful year. Careless People is a unique literary investigation: a gripping double narrative that combines a forensic search for clues to an unsolved crime and a quest for the roots of America’s best loved novel. Overturning much of the received wisdom of the period, Careless People blends biography and history with lost newspaper accounts, letters, and newly discovered archival materials. With great wit and insight, acclaimed scholar of American literature Sarah Churchwell reconstructs the events of that pivotal autumn, revealing in the process new ways of thinking about Fitzgerald’s masterpiece. Interweaving the biographical story of the Fitzgeralds with the unfolding investigation into the murder of Hall and Mills, Careless People is a thrilling combination of literary history and murder mystery, a mesmerizing journey into the dark heart of Jazz Age America.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780698151635"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0698151631"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "True Crime"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NUBKAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NUBKAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=NUBKAAAAQBAJ&printsec=frontcover&dq=search+intitle:the+great+gatsby&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NUBKAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NUBKAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NUBKAAAAQBAJ&rdid=book-NUBKAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/Careless_People-sample-epub.acsm?id=NUBKAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NUBKAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Interweaving the biographical story of the Fitzgeralds with the unfolding investigation into the murder of Hall and Mills, Careless People is a thrilling combination of literary history and murder mystery, a mesmerizing journey into the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RBmPAQAACAAJ",
+      "etag": "FHqn05/WFYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RBmPAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Personal Chaos and Search for Value in The Great Gatsby and Tender is the Night as Reflective of the Social Chaos and Loss of Value in the 1920's",
+        "authors": [
+          "Ellen Elizabeth Weir"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:957771522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=RBmPAQAACAAJ&dq=search+intitle:the+great+gatsby&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=RBmPAQAACAAJ&dq=search+intitle:the+great+gatsby&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Personal_Chaos_and_Search_for_Value.html?hl=&id=RBmPAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RBmPAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rj4qEAAAQBAJ",
+      "etag": "FeIhjHMC+7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rj4qEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Great Gatsby",
+        "subtitle": "The Complete 1925 Text with Introduction and Afterword by Richard Smoley",
+        "authors": [
+          "F. Scott Fitzgerald",
+          "Richard Smoley"
+        ],
+        "publisher": "Gildan Media LLC aka G&D Media",
+        "publishedDate": "2021-06-01",
         "description": "Long regarded as one of the greatest American novels of the twentieth century, The Great Gatsby expresses many of the central themes of the American myth: romance, love, the quest for wealth and status, loneliness, and corruption. The novel follows Jay Gatsby, a mysterious self-made man, in his desperate quest for the love of the beguiling Daisy Buchanan—and for a place in the highest ranks of society. Gatsby’s fate reflects the emptiness and disappointment that come from his search. First published in 1925, Gatsby is regarded as the epitome of the spirit of the Roaring Twenties: the fast life, new wealth, and a glamour and a frivolity that prove to be hollow. Fitzgerald’s genius portrays this world with humor, insight, and the profound sympathy that is the hallmark of all great fiction. F. Scott Fitzgerald (1896–1940) was one of the most admired writers of the twentieth century. His works include This Side of Paradise, The Beautiful and Damned, and Tender Is the Night. The Great Gatsby is by far his best-known and most beloved novel. Richard Smoley, author of the foreword and afterword, is the distinguished author of twelve books, mostly recently The Truth about Magic, also published by G&D. A graduate of Harvard and Oxford universities, he published First Flowering: The Best of the Harvard Advocate, 1866–1976, while still an undergraduate.",
         "industryIdentifiers": [
           {

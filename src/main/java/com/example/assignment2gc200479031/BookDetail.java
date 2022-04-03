@@ -36,7 +36,9 @@ public class BookDetail extends Book{
     }
 
     public String getDescription() {
-        return description;
+
+        return (description != null) ? description : " ";
+
     }
 
     public String[] getCategories() {
@@ -44,18 +46,22 @@ public class BookDetail extends Book{
     }
 
     public String getLanguage() {
-        return language;
+        return (language != null) ? language : " ";
     }
 
     public String getInfoLink() {
-        return infoLink;
+
+        return (infoLink != null) ? infoLink : " ";
+
     }
 
     public int getPageCount() {
+
         return pageCount;
     }
 
     public ImageLink getImageLinks() {
+
         return imageLinks;
     }
 
@@ -70,7 +76,7 @@ public class BookDetail extends Book{
 
     public String toString()
     {
-        return String.format("%s (%s, %s)",title, publishedDate.substring(0, 4), Arrays.toString(authors).replace("[","").replace("]",""));
+        return String.format("%s (%s, %s)",title, getPublishedDate().substring(0, 4), Arrays.toString(authors).replace("[","").replace("]",""));
     }
 
     //This method to return the id based on the parent class Book
