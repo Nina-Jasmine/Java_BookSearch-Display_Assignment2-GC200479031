@@ -35,6 +35,7 @@ public class BookDetail extends Book {
         return (publishedDate != null) ? publishedDate : " ";
     }
 
+    // null coalescing operator to avoid null value
     public String getDescription() {
 
         return (description != null) ? description : " ";

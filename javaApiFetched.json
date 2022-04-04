@@ -1,11 +1,11 @@
 {
   "kind": "books#volumes",
-  "totalItems": 340,
+  "totalItems": 339,
   "items": [
     {
       "kind": "books#volume",
       "id": "OilGMQAACAAJ",
-      "etag": "JvUSK0Z5F9Q",
+      "etag": "m3+VGKuc/TU",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/OilGMQAACAAJ",
       "volumeInfo": {
         "title": "Pride and Prejudice",
@@ -46,8 +46,8 @@
           "thumbnail": "http://books.google.com/books/content?id=OilGMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=OilGMQAACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=1&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=OilGMQAACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=OilGMQAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=OilGMQAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=OilGMQAACAAJ"
       },
       "saleInfo": {
@@ -78,7 +78,7 @@
     {
       "kind": "books#volume",
       "id": "2GkrvgAACAAJ",
-      "etag": "VA+qECrAGaU",
+      "etag": "bkemh4BAgKM",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/2GkrvgAACAAJ",
       "volumeInfo": {
         "title": "Search and Find: Pride & Prejudice",
@@ -119,8 +119,8 @@
           "thumbnail": "http://books.google.com/books/content?id=2GkrvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=2GkrvgAACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=2&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=2GkrvgAACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=2GkrvgAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=2GkrvgAACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Search_and_Find_Pride_Prejudice.html?hl=&id=2GkrvgAACAAJ"
       },
       "saleInfo": {
@@ -151,7 +151,7 @@
     {
       "kind": "books#volume",
       "id": "5GbdTc9OJ78C",
-      "etag": "cA76J/SxAGE",
+      "etag": "V5wRc7xS3AI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/5GbdTc9OJ78C",
       "volumeInfo": {
         "title": "Pride and Prejudice",
@@ -194,8 +194,8 @@
           "thumbnail": "http://books.google.com/books/content?id=5GbdTc9OJ78C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=5GbdTc9OJ78C&printsec=frontcover&dq=search+intitle:pride+and+prejustice&hl=&cd=3&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=5GbdTc9OJ78C&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=5GbdTc9OJ78C&printsec=frontcover&dq=search+intitle:pride+and+prejudice&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=5GbdTc9OJ78C&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=5GbdTc9OJ78C"
       },
       "saleInfo": {
@@ -227,7 +227,7 @@
     {
       "kind": "books#volume",
       "id": "s1gVAAAAYAAJ",
-      "etag": "gxmf+TuQ9Iw",
+      "etag": "XpRs3b6klQQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/s1gVAAAAYAAJ",
       "volumeInfo": {
         "title": "Pride and Prejudice",
@@ -265,7 +265,7 @@
           "thumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=s1gVAAAAYAAJ&printsec=frontcover&dq=search+intitle:pride+and+prejustice&hl=&cd=4&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=s1gVAAAAYAAJ&printsec=frontcover&dq=search+intitle:pride+and+prejudice&hl=&cd=4&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ"
       },
@@ -300,7 +300,7 @@
     {
       "kind": "books#volume",
       "id": "16BCjwEACAAJ",
-      "etag": "hqv1c6cByvA",
+      "etag": "AjsaVW5y4SI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/16BCjwEACAAJ",
       "volumeInfo": {
         "title": "Classic Novel Word Search - Jane Austen's Pride and Prejudice",
@@ -324,8 +324,8 @@
         "allowAnonLogging": false,
         "contentVersion": "preview-1.0.0",
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=16BCjwEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=5&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=16BCjwEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=16BCjwEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=16BCjwEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Classic_Novel_Word_Search_Jane_Austen_s.html?hl=&id=16BCjwEACAAJ"
       },
       "saleInfo": {
@@ -353,7 +353,7 @@
     {
       "kind": "books#volume",
       "id": "X1ivzQEACAAJ",
-      "etag": "d+DLWkoeNTQ",
+      "etag": "gCTLmgLxqN4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/X1ivzQEACAAJ",
       "volumeInfo": {
         "title": "Pride and Prejudice Word Search and Color",
@@ -387,8 +387,8 @@
           "thumbnail": "http://books.google.com/books/content?id=X1ivzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=X1ivzQEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=6&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=X1ivzQEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=X1ivzQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=X1ivzQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_Word_Search_and_Colo.html?hl=&id=X1ivzQEACAAJ"
       },
       "saleInfo": {
@@ -419,7 +419,7 @@
     {
       "kind": "books#volume",
       "id": "zauszQEACAAJ",
-      "etag": "tP/IG04ZaxI",
+      "etag": "Yy6irImNb4I",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/zauszQEACAAJ",
       "volumeInfo": {
         "title": "Pride and Prejudice Word Search and Colour",
@@ -453,8 +453,8 @@
           "thumbnail": "http://books.google.com/books/content?id=zauszQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=zauszQEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=7&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=zauszQEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=zauszQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=zauszQEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_Word_Search_and_Colo.html?hl=&id=zauszQEACAAJ"
       },
       "saleInfo": {
@@ -485,7 +485,7 @@
     {
       "kind": "books#volume",
       "id": "s09ODwAAQBAJ",
-      "etag": "Oytk5+6/ZIY",
+      "etag": "qQmOhR7AaXc",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/s09ODwAAQBAJ",
       "volumeInfo": {
         "title": "Pride and Prejudice (Illustrated)",
@@ -526,7 +526,7 @@
           "thumbnail": "http://books.google.com/books/content?id=s09ODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=s09ODwAAQBAJ&printsec=frontcover&dq=search+intitle:pride+and+prejustice&hl=&cd=8&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=s09ODwAAQBAJ&printsec=frontcover&dq=search+intitle:pride+and+prejudice&hl=&cd=8&source=gbs_api",
         "infoLink": "https://play.google.com/store/books/details?id=s09ODwAAQBAJ&source=gbs_api",
         "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s09ODwAAQBAJ"
       },
@@ -583,7 +583,7 @@
     {
       "kind": "books#volume",
       "id": "7_3HsgEACAAJ",
-      "etag": "LKBGJfCJSWs",
+      "etag": "Tcj7Ygy7MKs",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/7_3HsgEACAAJ",
       "volumeInfo": {
         "title": "Pride and Prejudice: a Word Search",
@@ -616,8 +616,8 @@
           "thumbnail": "http://books.google.com/books/content?id=7_3HsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=7_3HsgEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=9&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=7_3HsgEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=7_3HsgEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=7_3HsgEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice_a_Word_Search.html?hl=&id=7_3HsgEACAAJ"
       },
       "saleInfo": {
@@ -648,7 +648,7 @@
     {
       "kind": "books#volume",
       "id": "ElvYswEACAAJ",
-      "etag": "LgE0SVp2wtA",
+      "etag": "R7v4H+zv5m4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/ElvYswEACAAJ",
       "volumeInfo": {
         "title": "Level 5: Pride and Prejudice",
@@ -685,8 +685,8 @@
           "containsImageBubbles": false
         },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=ElvYswEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&cd=10&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=ElvYswEACAAJ&dq=search+intitle:pride+and+prejustice&hl=&source=gbs_api",
+        "previewLink": "http://books.google.ca/books?id=ElvYswEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=ElvYswEACAAJ&dq=search+intitle:pride+and+prejudice&hl=&source=gbs_api",
         "canonicalVolumeLink": "https://books.google.com/books/about/Level_5_Pride_and_Prejudice.html?hl=&id=ElvYswEACAAJ"
       },
       "saleInfo": {
@@ -716,85 +716,83 @@
     }
   ]
 }
-/reader?id=NUBKAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "SAMPLE",
-        "quoteSharingAllowed": false
-      },
-      "searchInfo": {
-        "textSnippet": "Interweaving the biographical story of the Fitzgeralds with the unfolding investigation into the murder of Hall and Mills, Careless People is a thrilling combination of literary history and murder mystery, a mesmerizing journey into the ..."
-      }
-    },
-    {
-      "kind": "books#volume",
-      "id": "RBmPAQAACAAJ",
-      "etag": "/zS+K/4+PPE",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/RBmPAQAACAAJ",
-      "volumeInfo": {
-        "title": "The Personal Chaos and Search for Value in The Great Gatsby and Tender is the Night as Reflective of the Social Chaos and Loss of Value in the 1920's",
-        "authors": [
-          "Ellen Elizabeth Weir"
-        ],
-        "publishedDate": "1974",
-        "industryIdentifiers": [
-          {
-            "type": "OTHER",
-            "identifier": "OCLC:957771522"
-          }
-        ],
+],
         "readingModes": {
           "text": false,
-          "image": false
+          "image": true
         },
-        "pageCount": 24,
         "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
         "maturityRating": "NOT_MATURE",
-        "allowAnonLogging": false,
+        "allowAnonLogging": true,
         "contentVersion": "preview-1.0.0",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cFiNrjPcvucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
         "language": "en",
-        "previewLink": "http://books.google.ca/books?id=RBmPAQAACAAJ&dq=search+intitle:the+great+gatsby&hl=&cd=9&source=gbs_api",
-        "infoLink": "http://books.google.ca/books?id=RBmPAQAACAAJ&dq=search+intitle:the+great+gatsby&hl=&source=gbs_api",
-        "canonicalVolumeLink": "https://books.google.com/books/about/The_Personal_Chaos_and_Search_for_Value.html?hl=&id=RBmPAQAACAAJ"
+        "previewLink": "http://books.google.ca/books?id=cFiNrjPcvucC&pg=PA41&dq=search+intitle:to+kill+a+mocking+bird&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC"
       },
       "saleInfo": {
         "country": "CA",
-        "saleability": "NOT_FOR_SALE",
-        "isEbook": false
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "CAD"
+        },
+        "retailPrice": {
+          "amount": 8.79,
+          "currencyCode": "CAD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cFiNrjPcvucC&rdid=book-cFiNrjPcvucC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "CAD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8790000,
+              "currencyCode": "CAD"
+            },
+            "giftable": true
+          }
+        ]
       },
       "accessInfo": {
         "country": "CA",
-        "viewability": "NO_PAGES",
-        "embeddable": false,
+        "viewability": "PARTIAL",
+        "embeddable": true,
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
           "isAvailable": false
         },
         "pdf": {
-          "isAvailable": false
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ca/books/download/To_Kill_a_Mockingbird_Lit_Link_Gr_7_8-sample-pdf.acsm?id=cFiNrjPcvucC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=RBmPAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
-        "accessViewStatus": "NONE",
+        "webReaderLink": "http://play.google.com/books/reader?id=cFiNrjPcvucC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eFind\u003c/b\u003e the following names and words in the word \u003cb\u003esearch\u003c/b\u003e: When the new wore off his grandfather&#39;s watch, and carrying. Word \u003cb\u003eSearch\u003c/b\u003e ATTICUS AUNT ALEXANDRA BOB EWELL BOO RADLEY BURRIS CALPURNIA CUNNINGHAM DILL DOLPHUS RAYMOND FINCH HARPER&nbsp;..."
       }
-    },
-    {
-      "kind": "books#volume",
-      "id": "rj4qEAAAQBAJ",
-      "etag": "E8az7aSrfDc",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/rj4qEAAAQBAJ",
-      "volumeInfo": {
-        "title": "The Great Gatsby",
-        "subtitle": "The Complete 1925 Text with Introduction and Afterword by Richard Smoley",
-        "authors": [
-          "F. Scott Fitzgerald",
-          "Richard Smoley"
-        ],
-        "publisher": "Gildan Media LLC aka G&D Media",
-        "publishedDate": "2021-06-01",
+    }
+  ]
+}
+dDate": "2021-06-01",
         "description": "Long regarded as one of the greatest American novels of the twentieth century, The Great Gatsby expresses many of the central themes of the American myth: romance, love, the quest for wealth and status, loneliness, and corruption. The novel follows Jay Gatsby, a mysterious self-made man, in his desperate quest for the love of the beguiling Daisy Buchanan—and for a place in the highest ranks of society. Gatsby’s fate reflects the emptiness and disappointment that come from his search. First published in 1925, Gatsby is regarded as the epitome of the spirit of the Roaring Twenties: the fast life, new wealth, and a glamour and a frivolity that prove to be hollow. Fitzgerald’s genius portrays this world with humor, insight, and the profound sympathy that is the hallmark of all great fiction. F. Scott Fitzgerald (1896–1940) was one of the most admired writers of the twentieth century. His works include This Side of Paradise, The Beautiful and Damned, and Tender Is the Night. The Great Gatsby is by far his best-known and most beloved novel. Richard Smoley, author of the foreword and afterword, is the distinguished author of twelve books, mostly recently The Truth about Magic, also published by G&D. A graduate of Harvard and Oxford universities, he published First Flowering: The Best of the Harvard Advocate, 1866–1976, while still an undergraduate.",
         "industryIdentifiers": [
           {

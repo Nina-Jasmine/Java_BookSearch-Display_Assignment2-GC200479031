@@ -14,7 +14,6 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.layout.VBox?>
 
-
 <AnchorPane prefHeight="650.0" prefWidth="650.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment2gc200479031.BookDetailsViewController">
    <children>
       <BorderPane layoutX="192.0" layoutY="36.0" prefHeight="600.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -43,7 +42,7 @@
                   <Label fx:id="languageLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
                   <Label text="Publisher: " GridPane.rowIndex="2" />
                   <Label fx:id="publisherLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-                  <Label text="Published  Year:" GridPane.rowIndex="3" />
+                  <Label text="Published  Date:" GridPane.rowIndex="3" />
                   <Label fx:id="publishedDateLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
                   <Label text="Page Count:" GridPane.rowIndex="4" />
                   <Label fx:id="pageCount" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
