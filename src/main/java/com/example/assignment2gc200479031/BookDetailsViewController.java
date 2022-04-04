@@ -5,6 +5,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextArea;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
@@ -25,7 +26,7 @@ public class BookDetailsViewController {
     private Label bookTitleLabel;
 
     @FXML
-    private Label descriptionTextLabel;
+    private TextArea descriptionTextArea;
 
     @FXML
     private ImageView imageView;
@@ -62,12 +63,23 @@ public class BookDetailsViewController {
                 bookDetail = book.getBookDetail();
             }
         }*/
+
+        //load more Book Details info based on the current displayed bookDetail instance
         System.out.println("from detail controller" + bookDetail);
+
         bookTitleLabel.setText(bookDetail.getTitle());
-        authorsLabel.setText(bookDetail.getAuthors());
-        languageLabel.setText(bookDetail.getLanguage() );
+        try {
+            authorsLabel.setText(bookDetail.getAuthors());
+        }
+        catch(NullPointerException e){
+            authorsLabel.setText("");
+        }
+        languageLabel.setText(bookDetail.getLanguage());
+        pageCount.setText(Integer.toString(bookDetail.getPageCount()));
         publishedDateLabel.setText(bookDetail.getPublishedDate());
         publisherLabel.setText(bookDetail.getPublisher());
+        infoLinkLabel.setText(bookDetail.getInfoLink());
+
         //try catch to avoid null value
         try {
             averageRatingLabel.setText(Double.toString(bookDetail.getAverageRating()));
@@ -83,8 +95,14 @@ public class BookDetailsViewController {
             ratingCountLabel.setText("");
         }
 
-        descriptionTextLabel.setText(bookDetail.getDescription());
-        infoLinkLabel.setText(bookDetail.getInfoLink());
+        //set description text area not edible and wrap text
+
+        descriptionTextArea.setText(bookDetail.getDescription());
+        descriptionTextArea.setWrapText(true);
+        descriptionTextArea.setEditable(false);
+
+
+
         try {
             imageView.setImage(new Image(bookDetail.getImageLinks().getThumbnail()));
         }

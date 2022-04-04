@@ -6,7 +6,7 @@ import javafx.fxml.FXML;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class BookDetail extends Book{
+public class BookDetail extends Book {
 
     private String title, subtitle, publisher, publishedDate, description, language, infoLink;
     private String[] authors, categories;
@@ -23,7 +23,7 @@ public class BookDetail extends Book{
     }
 
     public String getAuthors() {
-        return Arrays.toString(authors).replace("[","").replace("]","");
+        return Arrays.toString(authors).replace("[", "").replace("]", "");
     }
 
     public String getPublisher() {
@@ -72,12 +72,19 @@ public class BookDetail extends Book{
     public Double getAverageRating() {
         return averageRating;
     }
-    //get the title, Year of publishedDate and Authors information to display
 
-    public String toString()
-    {
-        return String.format("%s (%s, %s)",title, getPublishedDate().substring(0, 4), Arrays.toString(authors).replace("[","").replace("]",""));
+    //get the title, Year of publishedDate and Authors information to display
+    public String toString() {
+        //try catch block to avoid null value publishedDate
+        try {
+            return String.format("%s (%s, %s)", title, getPublishedDate().substring(0, 4), Arrays.toString(authors).replace("[", "").replace("]", ""));
+        } catch (StringIndexOutOfBoundsException e) {
+             //e.printStackTrace();
+            return String.format("%s (%s)", title, Arrays.toString(authors).replace("[", "").replace("]", ""));
+        }
+
     }
+}
 
     //This method to return the id based on the parent class Book
 
@@ -87,16 +94,6 @@ public class BookDetail extends Book{
         return super.getId();
     }*/
 
-    public String getIdFromBookDetail() {
 
-        return super.getId();
-    }
-   /*  public Book getBook(){
 
-        return this;
-    }*/
 
-    public Class<? super Book> getSuperclass(){
-        return this.getSuperclass();
-    }
-}

@@ -4,6 +4,7 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 import javafx.scene.Scene;
+import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
 import java.io.IOException;
@@ -16,6 +17,7 @@ public class SceneChanger {
         //get the controller from the destination
         BookDetailsViewController controller = fxmlLoader.getController();
         controller.loadBookDetails(bookDetail);
+
 
         //get the stage object from the action event triggered when the button was pushed
         Stage stage = (Stage)((Node)event.getSource()).getScene().getWindow();

@@ -8,6 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
 
 <AnchorPane prefHeight="450.0" prefWidth="650.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment2gc200479031.SearchBookViewController">
    <children>
@@ -15,12 +16,15 @@
          <children>
             <HBox alignment="CENTER_LEFT" spacing="10.0">
                <children>
-                  <Label id="searchLabel" prefHeight="47.0" prefWidth="172.0" text="Book Title" />
-                  <TextField fx:id="searchTextField" alignment="TOP_LEFT" prefHeight="39.0" prefWidth="306.0" promptText="Input Book Title" />
-                  <Button mnemonicParsing="false" onAction="#searchBooks" prefHeight="47.0" prefWidth="128.0" text="Search" />
+                  <Label id="searchLabel" prefHeight="43.0" prefWidth="150.0" text="Book Title" />
+                  <TextField fx:id="searchTextField" prefHeight="39.0" prefWidth="294.0" promptText="Input Book Title">
+                     <font>
+                        <Font size="18.0" />
+                     </font></TextField>
+                  <Button mnemonicParsing="false" onAction="#searchBooks" prefHeight="43.0" prefWidth="142.0" text="Search" />
                </children>
             </HBox>
-            <ListView fx:id="resultListView" prefHeight="350.0" prefWidth="600.0" />
+            <ListView fx:id="resultListView" prefHeight="330.0" prefWidth="610.0" />
             <Button fx:id="getDetailButton" alignment="CENTER_RIGHT" mnemonicParsing="false" onAction="#getDetails" text="Get Book Details" />
             <Label fx:id="msgLabel" prefHeight="17.0" prefWidth="95.0" />
          </children>

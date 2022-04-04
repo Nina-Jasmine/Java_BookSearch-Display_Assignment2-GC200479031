@@ -64,15 +64,16 @@ public class SearchBookViewController implements Initializable {
     }
 
     /**
-     * This method will pass the id information to the Book details controller
+     * This method will pass the current bookDetail information to the Book details controller
      */
     @FXML
     private void getDetails(ActionEvent event) throws IOException {
         System.out.println(resultListView.getSelectionModel().getSelectedItem());
 
-        //String bookId = resultListView.getSelectionModel().getSelectedItem().getIdFromBookDetail();
         //System.out.println("Book ID: "+ bookId);
         BookDetail bookDetail = resultListView.getSelectionModel().getSelectedItem();
+
+
         SceneChanger.changeScenes(event, "book-details-view.fxml",bookDetail);
     }
 }
