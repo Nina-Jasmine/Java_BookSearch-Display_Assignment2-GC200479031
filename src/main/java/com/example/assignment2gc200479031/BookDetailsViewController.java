@@ -32,9 +32,6 @@ public class BookDetailsViewController {
     private ImageView imageView;
 
     @FXML
-    private Hyperlink infoLinkLabel;
-
-    @FXML
     private Label languageLabel;
 
     @FXML
@@ -78,7 +75,6 @@ public class BookDetailsViewController {
         pageCount.setText(Integer.toString(bookDetail.getPageCount()));
         publishedDateLabel.setText(bookDetail.getPublishedDate());
         publisherLabel.setText(bookDetail.getPublisher());
-        infoLinkLabel.setText(bookDetail.getInfoLink());
 
         //try catch to avoid null value
         try {
