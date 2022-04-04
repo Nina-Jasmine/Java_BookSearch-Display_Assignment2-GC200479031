@@ -1,11 +1,11 @@
 {
   "kind": "books#volumes",
-  "totalItems": 391,
+  "totalItems": 393,
   "items": [
     {
       "kind": "books#volume",
       "id": "iXn5U2IzVH0C",
-      "etag": "duo4JtEZevg",
+      "etag": "JRzlVBvCiHI",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/iXn5U2IzVH0C",
       "volumeInfo": {
         "title": "The Great Gatsby",
@@ -105,7 +105,7 @@
     {
       "kind": "books#volume",
       "id": "1EIsEAAAQBAJ",
-      "etag": "Su98eCJ/PqQ",
+      "etag": "oRc5AmRyP/M",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/1EIsEAAAQBAJ",
       "volumeInfo": {
         "title": "The Great Gatsby",
@@ -203,7 +203,7 @@
     {
       "kind": "books#volume",
       "id": "D7iRLn8ZsAIC",
-      "etag": "iyOynN6n8cc",
+      "etag": "iLTIN/PByS8",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/D7iRLn8ZsAIC",
       "volumeInfo": {
         "title": "Understanding The Great Gatsby",
@@ -282,7 +282,7 @@
     {
       "kind": "books#volume",
       "id": "uZygNwAACAAJ",
-      "etag": "PSmjhZTZR4M",
+      "etag": "KbHnXDV09Lc",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/uZygNwAACAAJ",
       "volumeInfo": {
         "title": "In Search of Wonder",
@@ -336,7 +336,7 @@
     {
       "kind": "books#volume",
       "id": "1VTxngEACAAJ",
-      "etag": "CMAWUIz/Exw",
+      "etag": "kJ1owhYtcmE",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/1VTxngEACAAJ",
       "volumeInfo": {
         "title": "1925 Novels",
@@ -403,7 +403,7 @@
     {
       "kind": "books#volume",
       "id": "dJ3CCQAAQBAJ",
-      "etag": "GVJbYg0cikg",
+      "etag": "Hai72IFJ85A",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/dJ3CCQAAQBAJ",
       "volumeInfo": {
         "title": "The Great Gatsby (F. Scott Fitzgerald)",
@@ -500,7 +500,7 @@
     {
       "kind": "books#volume",
       "id": "R7NFPgAACAAJ",
-      "etag": "1ZmrDqRHBgU",
+      "etag": "Uk2cFwbOEL4",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/R7NFPgAACAAJ",
       "volumeInfo": {
         "title": "The Great Gatsby",
@@ -567,7 +567,7 @@
     {
       "kind": "books#volume",
       "id": "NUBKAAAAQBAJ",
-      "etag": "FGLWAEv+4nY",
+      "etag": "IET0jByb4o0",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/NUBKAAAAQBAJ",
       "volumeInfo": {
         "title": "Careless People",
@@ -667,7 +667,7 @@
     {
       "kind": "books#volume",
       "id": "RBmPAQAACAAJ",
-      "etag": "d8MOUp1fnwA",
+      "etag": "4a3Fok7HmoY",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/RBmPAQAACAAJ",
       "volumeInfo": {
         "title": "The Personal Chaos and Search for Value in The Great Gatsby and Tender is the Night as Reflective of the Social Chaos and Loss of Value in the 1920's",
@@ -724,7 +724,7 @@
     {
       "kind": "books#volume",
       "id": "rj4qEAAAQBAJ",
-      "etag": "EAyKz4G6yFo",
+      "etag": "72fZGLOQLPg",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/rj4qEAAAQBAJ",
       "volumeInfo": {
         "title": "The Great Gatsby",
